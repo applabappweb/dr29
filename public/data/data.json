@@ -1,0 +1,5442 @@
+[
+    {
+        "uml": "Montreal",
+        "gm": {
+            "lat": 45.497216,
+            "lon": -73.610364
+        },
+        "uol": "Montreal",
+        "gop": {
+            "lat": 45.497216,
+            "lon": -73.610364
+        },
+        "l": "Julia",
+        "nwo": "JuliaSmoothOptimizers/SolverBenchmark.jl",
+        "pr": 112,
+        "ma": "2021-12-22T20:21:51Z",
+        "oa": "2021-12-21T01:14:20Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "Java",
+        "nwo": "google/nomulus",
+        "pr": 1474,
+        "ma": "2021-12-22T19:43:25Z",
+        "oa": "2021-12-21T04:15:04Z"
+    },
+    {
+        "uml": "Boston",
+        "gm": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "uol": "Shanghai",
+        "gop": {
+            "lat": 31.16667,
+            "lon": 121.46667
+        },
+        "l": "Rust",
+        "nwo": "apache/arrow-rs",
+        "pr": 1073,
+        "ma": "2021-12-22T16:43:45Z",
+        "oa": "2021-12-21T04:18:51Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "Japan",
+        "gop": {
+            "lat": 36.3864928218528,
+            "lon": 138.592229549504
+        },
+        "l": "C",
+        "nwo": "emscripten-core/emscripten",
+        "pr": 15831,
+        "ma": "2021-12-22T17:13:18Z",
+        "oa": "2021-12-21T05:07:59Z"
+    },
+    {
+        "uml": "Montreal",
+        "gm": {
+            "lat": 45.497216,
+            "lon": -73.610364
+        },
+        "uol": "Montreal",
+        "gop": {
+            "lat": 45.497216,
+            "lon": -73.610364
+        },
+        "l": "Julia",
+        "nwo": "JuliaSmoothOptimizers/OptimizationProblems.jl",
+        "pr": 110,
+        "ma": "2021-12-22T20:13:05Z",
+        "oa": "2021-12-21T06:19:10Z"
+    },
+    {
+        "uml": "Boston",
+        "gm": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "uol": "Australia",
+        "gop": {
+            "lat": -25.7349684916223,
+            "lon": 134.489562606981
+        },
+        "l": "Rust",
+        "nwo": "apache/arrow-rs",
+        "pr": 1076,
+        "ma": "2021-12-22T16:36:06Z",
+        "oa": "2021-12-21T07:59:52Z"
+    },
+    {
+        "uml": "Vienna",
+        "gm": {
+            "lat": 48.20833,
+            "lon": 16.37306
+        },
+        "uol": "Ukraine",
+        "gop": {
+            "lat": 49.3227937844972,
+            "lon": 31.3202829593814
+        },
+        "l": "Python",
+        "nwo": "mathiasertl/django-ca",
+        "pr": 80,
+        "ma": "2021-12-22T18:08:26Z",
+        "oa": "2021-12-21T08:31:11Z"
+    },
+    {
+        "uml": "Berlin",
+        "gm": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "uol": "Berlin",
+        "gop": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "l": "JavaScript",
+        "nwo": "camunda/camunda-modeler",
+        "pr": 2651,
+        "ma": "2021-12-22T19:42:57Z",
+        "oa": "2021-12-21T08:45:16Z"
+    },
+    {
+        "uml": "Austria",
+        "gm": {
+            "lat": 47.6077978292689,
+            "lon": 14.3001435907641
+        },
+        "uol": "Austria",
+        "gop": {
+            "lat": 47.6077978292689,
+            "lon": 14.3001435907641
+        },
+        "l": "TypeScript",
+        "nwo": "getsentry/sentry-javascript",
+        "pr": 4341,
+        "ma": "2021-12-22T20:06:30Z",
+        "oa": "2021-12-21T08:53:17Z"
+    },
+    {
+        "uml": "Seattle",
+        "gm": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "HTML",
+        "nwo": "rust-lang/this-week-in-rust",
+        "pr": 2717,
+        "ma": "2021-12-22T19:58:50Z",
+        "oa": "2021-12-21T10:38:09Z"
+    },
+    {
+        "uml": "Berlin",
+        "gm": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "uol": "Berlin",
+        "gop": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "l": "Shell",
+        "nwo": "flatcar-linux/coreos-overlay",
+        "pr": 1524,
+        "ma": "2021-12-22T16:34:38Z",
+        "oa": "2021-12-21T11:05:09Z"
+    },
+    {
+        "uml": "Israel",
+        "gm": {
+            "lat": 31.8472608144505,
+            "lon": 34.8419985253627
+        },
+        "uol": "Israel",
+        "gop": {
+            "lat": 31.8472608144505,
+            "lon": 34.8419985253627
+        },
+        "l": "C++",
+        "nwo": "vmware/concord-bft",
+        "pr": 2159,
+        "ma": "2021-12-22T18:57:32Z",
+        "oa": "2021-12-21T12:11:10Z"
+    },
+    {
+        "uml": "Paris",
+        "gm": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "JavaScript",
+        "nwo": "scality/backbeat",
+        "pr": 2035,
+        "ma": "2021-12-22T19:11:55Z",
+        "oa": "2021-12-21T13:36:26Z"
+    },
+    {
+        "uml": "Chicago",
+        "gm": {
+            "lat": 41.8756,
+            "lon": -87.6244
+        },
+        "uol": "Poland",
+        "gop": {
+            "lat": 52.1246099075455,
+            "lon": 19.30063630556
+        },
+        "l": "TypeScript",
+        "nwo": "tallycash/extension",
+        "pr": 737,
+        "ma": "2021-12-22T17:17:54Z",
+        "oa": "2021-12-21T14:59:26Z"
+    },
+    {
+        "uml": "Boston",
+        "gm": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "uol": "Boston",
+        "gop": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "l": "Rust",
+        "nwo": "apache/arrow-rs",
+        "pr": 1077,
+        "ma": "2021-12-22T16:34:39Z",
+        "oa": "2021-12-21T15:22:08Z"
+    },
+    {
+        "uml": "Boston",
+        "gm": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "uol": "Boston",
+        "gop": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "l": "Rust",
+        "nwo": "apache/arrow-rs",
+        "pr": 1078,
+        "ma": "2021-12-22T16:34:46Z",
+        "oa": "2021-12-21T15:22:43Z"
+    },
+    {
+        "uml": "Boston",
+        "gm": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "uol": "Boston",
+        "gop": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "l": "Rust",
+        "nwo": "apache/arrow-rs",
+        "pr": 1079,
+        "ma": "2021-12-22T16:34:53Z",
+        "oa": "2021-12-21T15:22:56Z"
+    },
+    {
+        "uml": "Ontario",
+        "gm": {
+            "lat": 49.4515636581,
+            "lon": -84.2539813003493
+        },
+        "uol": "Ontario",
+        "gop": {
+            "lat": 49.4515636581,
+            "lon": -84.2539813003493
+        },
+        "l": "Go",
+        "nwo": "gravitational/teleport",
+        "pr": 9518,
+        "ma": "2021-12-22T17:54:43Z",
+        "oa": "2021-12-21T15:23:11Z"
+    },
+    {
+        "uml": "Boston",
+        "gm": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "uol": "Boston",
+        "gop": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "l": "Rust",
+        "nwo": "apache/arrow-rs",
+        "pr": 1080,
+        "ma": "2021-12-22T16:34:59Z",
+        "oa": "2021-12-21T15:23:26Z"
+    },
+    {
+        "uml": "Boston",
+        "gm": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "uol": "Boston",
+        "gop": {
+            "lat": 42.3605,
+            "lon": -71.0596
+        },
+        "l": "Rust",
+        "nwo": "apache/arrow-rs",
+        "pr": 1081,
+        "ma": "2021-12-22T16:35:06Z",
+        "oa": "2021-12-21T15:23:44Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "Rust",
+        "nwo": "cube-js/cube.js",
+        "pr": 3835,
+        "ma": "2021-12-22T20:10:17Z",
+        "oa": "2021-12-21T15:31:40Z"
+    },
+    {
+        "uml": "Nijmegen",
+        "gm": {
+            "lat": 51.83333,
+            "lon": 5.85
+        },
+        "uol": "Nijmegen",
+        "gop": {
+            "lat": 51.83333,
+            "lon": 5.85
+        },
+        "l": "Python",
+        "nwo": "svthalia/concrexit",
+        "pr": 2106,
+        "ma": "2021-12-22T16:41:39Z",
+        "oa": "2021-12-21T15:46:58Z"
+    },
+    {
+        "uml": "Toulouse",
+        "gm": {
+            "lat": 43.60444,
+            "lon": 1.44194
+        },
+        "uol": "Toulouse",
+        "gop": {
+            "lat": 43.60444,
+            "lon": 1.44194
+        },
+        "l": "JavaScript",
+        "nwo": "GrottoCenter/Grottocenter3",
+        "pr": 694,
+        "ma": "2021-12-22T19:23:38Z",
+        "oa": "2021-12-21T16:04:02Z"
+    },
+    {
+        "uml": "Toronto",
+        "gm": {
+            "lat": 43.653482,
+            "lon": -79.383935
+        },
+        "uol": "Toronto",
+        "gop": {
+            "lat": 43.653482,
+            "lon": -79.383935
+        },
+        "l": "Python",
+        "nwo": "getsentry/sentry",
+        "pr": 30789,
+        "ma": "2021-12-22T17:18:54Z",
+        "oa": "2021-12-21T16:04:12Z"
+    },
+    {
+        "uml": "Berlin",
+        "gm": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "uol": "Berlin",
+        "gop": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "l": "Shell",
+        "nwo": "flatcar-linux/scripts",
+        "pr": 194,
+        "ma": "2021-12-22T16:35:34Z",
+        "oa": "2021-12-21T16:27:25Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "Python",
+        "nwo": "pytorch/vision",
+        "pr": 5119,
+        "ma": "2021-12-22T17:25:18Z",
+        "oa": "2021-12-21T17:05:30Z"
+    },
+    {
+        "uml": "Granada",
+        "gm": {
+            "lat": 37.17806,
+            "lon": -3.60083
+        },
+        "uol": "Granada",
+        "gop": {
+            "lat": 37.17806,
+            "lon": -3.60083
+        },
+        "l": "C",
+        "nwo": "wazuh/wazuh",
+        "pr": 11445,
+        "ma": "2021-12-22T16:50:10Z",
+        "oa": "2021-12-21T17:07:59Z"
+    },
+    {
+        "uml": "Zürich",
+        "gm": {
+            "lat": 47.427301,
+            "lon": 8.651159
+        },
+        "uol": "Zürich",
+        "gop": {
+            "lat": 47.427301,
+            "lon": 8.651159
+        },
+        "l": "TypeScript",
+        "nwo": "wepublish/wepublish",
+        "pr": 473,
+        "ma": "2021-12-22T19:19:25Z",
+        "oa": "2021-12-21T17:12:13Z"
+    },
+    {
+        "uml": "Virginia Beach",
+        "gm": {
+            "lat": 36.853,
+            "lon": -75.9774
+        },
+        "uol": "Virginia Beach",
+        "gop": {
+            "lat": 36.853,
+            "lon": -75.9774
+        },
+        "l": "SCSS",
+        "nwo": "BoldGrid/boldgrid-theme-framework",
+        "pr": 575,
+        "ma": "2021-12-22T18:10:25Z",
+        "oa": "2021-12-21T17:28:00Z"
+    },
+    {
+        "uml": "United Kingdom",
+        "gm": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "uol": "United Kingdom",
+        "gop": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "l": "Python",
+        "nwo": "raymondbutcher/pretf",
+        "pr": 69,
+        "ma": "2021-12-22T19:26:30Z",
+        "oa": "2021-12-21T17:42:21Z"
+    },
+    {
+        "uml": "Toronto",
+        "gm": {
+            "lat": 43.653482,
+            "lon": -79.383935
+        },
+        "uol": "Toronto",
+        "gop": {
+            "lat": 43.653482,
+            "lon": -79.383935
+        },
+        "l": "Python",
+        "nwo": "getsentry/sentry",
+        "pr": 30793,
+        "ma": "2021-12-22T18:03:54Z",
+        "oa": "2021-12-21T17:46:25Z"
+    },
+    {
+        "uml": "Lausanne",
+        "gm": {
+            "lat": 46.53333,
+            "lon": 6.63333
+        },
+        "uol": "Lausanne",
+        "gop": {
+            "lat": 46.53333,
+            "lon": 6.63333
+        },
+        "l": "Python",
+        "nwo": "camptocamp/c2cgeoportal",
+        "pr": 9063,
+        "ma": "2021-12-22T16:51:05Z",
+        "oa": "2021-12-21T18:00:57Z"
+    },
+    {
+        "uml": "Utah",
+        "gm": {
+            "lat": 39.2548171647,
+            "lon": -111.602499934826
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "HTML",
+        "nwo": "agrc/gis.utah.gov",
+        "pr": 1905,
+        "ma": "2021-12-22T16:42:08Z",
+        "oa": "2021-12-21T18:29:20Z"
+    },
+    {
+        "uml": "Romania",
+        "gm": {
+            "lat": 45.8436147575587,
+            "lon": 24.9692584752492
+        },
+        "uol": "Barcelona",
+        "gop": {
+            "lat": 41.3825,
+            "lon": 2.17694
+        },
+        "l": "JavaScript",
+        "nwo": "plone/volto",
+        "pr": 2946,
+        "ma": "2021-12-22T18:43:55Z",
+        "oa": "2021-12-21T18:44:28Z"
+    },
+    {
+        "uml": "Virginia Beach",
+        "gm": {
+            "lat": 36.853,
+            "lon": -75.9774
+        },
+        "uol": "Virginia Beach",
+        "gop": {
+            "lat": 36.853,
+            "lon": -75.9774
+        },
+        "l": "JavaScript",
+        "nwo": "BoldGrid/post-and-page-builder",
+        "pr": 320,
+        "ma": "2021-12-22T17:56:40Z",
+        "oa": "2021-12-21T18:58:35Z"
+    },
+    {
+        "uml": "Berlin",
+        "gm": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "uol": "Berlin",
+        "gop": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "l": "Rust",
+        "nwo": "Smithay/smithay",
+        "pr": 440,
+        "ma": "2021-12-22T19:04:51Z",
+        "oa": "2021-12-21T19:11:47Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "JavaScript",
+        "nwo": "department-of-veterans-affairs/vets-website",
+        "pr": 19743,
+        "ma": "2021-12-22T19:44:06Z",
+        "oa": "2021-12-21T19:13:59Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "Python",
+        "nwo": "getsentry/sentry",
+        "pr": 30797,
+        "ma": "2021-12-22T17:36:49Z",
+        "oa": "2021-12-21T19:14:26Z"
+    },
+    {
+        "uml": "Brazil",
+        "gm": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "uol": "Brazil",
+        "gop": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "l": "Go",
+        "nwo": "FairwindsOps/insights-plugins",
+        "pr": 566,
+        "ma": "2021-12-22T19:31:37Z",
+        "oa": "2021-12-21T19:17:51Z"
+    },
+    {
+        "uml": "Netherlands",
+        "gm": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "Lua",
+        "nwo": "FAForever/fa",
+        "pr": 3626,
+        "ma": "2021-12-22T18:06:33Z",
+        "oa": "2021-12-21T19:38:30Z"
+    },
+    {
+        "uml": "Austria",
+        "gm": {
+            "lat": 47.6077978292689,
+            "lon": 14.3001435907641
+        },
+        "uol": "Austria",
+        "gop": {
+            "lat": 47.6077978292689,
+            "lon": 14.3001435907641
+        },
+        "l": "JavaScript",
+        "nwo": "handlebars-lang/handlebars.js",
+        "pr": 1802,
+        "ma": "2021-12-22T19:36:26Z",
+        "oa": "2021-12-21T19:43:15Z"
+    },
+    {
+        "uml": "Mountain View",
+        "gm": {
+            "lat": 37.3856,
+            "lon": -122.082
+        },
+        "uol": "Mountain View",
+        "gop": {
+            "lat": 37.3856,
+            "lon": -122.082
+        },
+        "l": "JavaScript",
+        "nwo": "Agoric/documentation",
+        "pr": 595,
+        "ma": "2021-12-22T17:04:39Z",
+        "oa": "2021-12-21T19:44:00Z"
+    },
+    {
+        "uml": "California City",
+        "gm": {
+            "lat": 35.1258,
+            "lon": -117.9859
+        },
+        "uol": "California City",
+        "gop": {
+            "lat": 35.1258,
+            "lon": -117.9859
+        },
+        "l": "Python",
+        "nwo": "openforcefield/openff-toolkit",
+        "pr": 1160,
+        "ma": "2021-12-22T19:08:00Z",
+        "oa": "2021-12-21T19:53:37Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "Ruby",
+        "nwo": "cyberark/conjur",
+        "pr": 2449,
+        "ma": "2021-12-22T16:24:38Z",
+        "oa": "2021-12-21T20:06:43Z"
+    },
+    {
+        "uml": "Minnesota",
+        "gm": {
+            "lat": 46.3434063154,
+            "lon": -94.1991167709013
+        },
+        "uol": "Minnesota",
+        "gop": {
+            "lat": 46.3434063154,
+            "lon": -94.1991167709013
+        },
+        "l": "Go",
+        "nwo": "ovn-org/libovsdb",
+        "pr": 273,
+        "ma": "2021-12-22T18:20:26Z",
+        "oa": "2021-12-21T20:09:52Z"
+    },
+    {
+        "uml": "Brazil",
+        "gm": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "uol": "Brazil",
+        "gop": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "l": "Shell",
+        "nwo": "jboss-container-images/jboss-kie-modules",
+        "pr": 511,
+        "ma": "2021-12-22T18:03:30Z",
+        "oa": "2021-12-21T20:28:49Z"
+    },
+    {
+        "uml": "Seattle",
+        "gm": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "uol": "Seattle",
+        "gop": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "l": "JavaScript",
+        "nwo": "temporalio/documentation",
+        "pr": 798,
+        "ma": "2021-12-22T19:27:04Z",
+        "oa": "2021-12-21T20:46:14Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "Go",
+        "nwo": "projectcalico/calico",
+        "pr": 5317,
+        "ma": "2021-12-22T17:02:55Z",
+        "oa": "2021-12-21T20:58:36Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "TypeScript",
+        "nwo": "googleapis/nodejs-logging",
+        "pr": 1197,
+        "ma": "2021-12-22T20:01:26Z",
+        "oa": "2021-12-21T21:07:41Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "Java",
+        "nwo": "mongock/mongock",
+        "pr": 477,
+        "ma": "2021-12-22T18:32:05Z",
+        "oa": "2021-12-21T21:13:31Z"
+    },
+    {
+        "uml": "Mumbai",
+        "gm": {
+            "lat": 18.96667,
+            "lon": 72.83333
+        },
+        "uol": "Mumbai",
+        "gop": {
+            "lat": 18.96667,
+            "lon": 72.83333
+        },
+        "l": "TypeScript",
+        "nwo": "aws/amazon-chime-sdk-js",
+        "pr": 1895,
+        "ma": "2021-12-22T19:05:39Z",
+        "oa": "2021-12-21T21:28:08Z"
+    },
+    {
+        "uml": "Prague",
+        "gm": {
+            "lat": 50.08861,
+            "lon": 14.42139
+        },
+        "uol": "Prague",
+        "gop": {
+            "lat": 50.08861,
+            "lon": 14.42139
+        },
+        "l": "Python",
+        "nwo": "PyTorchLightning/metrics",
+        "pr": 692,
+        "ma": "2021-12-22T16:51:22Z",
+        "oa": "2021-12-21T21:44:24Z"
+    },
+    {
+        "uml": "Zurich",
+        "gm": {
+            "lat": 47.37861,
+            "lon": 8.54
+        },
+        "uol": "Switzerland",
+        "gop": {
+            "lat": 46.8024955829499,
+            "lon": 8.23439191387853
+        },
+        "l": "C#",
+        "nwo": "ChilliCream/hotchocolate",
+        "pr": 4582,
+        "ma": "2021-12-22T17:59:35Z",
+        "oa": "2021-12-21T21:50:17Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "Go",
+        "nwo": "projectcalico/calico",
+        "pr": 5319,
+        "ma": "2021-12-22T17:00:33Z",
+        "oa": "2021-12-21T21:55:10Z"
+    },
+    {
+        "uml": "Oakland",
+        "gm": {
+            "lat": 37.8045,
+            "lon": -122.2714
+        },
+        "uol": "Oakland",
+        "gop": {
+            "lat": 37.8045,
+            "lon": -122.2714
+        },
+        "l": "Rust",
+        "nwo": "tokio-rs/tracing",
+        "pr": 1795,
+        "ma": "2021-12-22T17:17:56Z",
+        "oa": "2021-12-21T22:57:54Z"
+    },
+    {
+        "uml": "Cupertino",
+        "gm": {
+            "lat": 37.323,
+            "lon": -122.0323
+        },
+        "uol": "Cupertino",
+        "gop": {
+            "lat": 37.323,
+            "lon": -122.0323
+        },
+        "l": "Python",
+        "nwo": "HorizonRobotics/alf",
+        "pr": 1149,
+        "ma": "2021-12-22T17:30:13Z",
+        "oa": "2021-12-21T23:13:20Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "C++",
+        "nwo": "googleapis/google-cloud-cpp",
+        "pr": 7772,
+        "ma": "2021-12-22T18:24:37Z",
+        "oa": "2021-12-22T00:09:47Z"
+    },
+    {
+        "uml": "Netherlands",
+        "gm": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "JavaScript",
+        "nwo": "compiler-explorer/compiler-explorer",
+        "pr": 3207,
+        "ma": "2021-12-22T19:44:52Z",
+        "oa": "2021-12-22T00:52:16Z"
+    },
+    {
+        "uml": "Netherlands",
+        "gm": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "Python",
+        "nwo": "compiler-explorer/infra",
+        "pr": 653,
+        "ma": "2021-12-22T16:59:58Z",
+        "oa": "2021-12-22T01:02:33Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "Swift",
+        "nwo": "apple/swift-tools-support-core",
+        "pr": 274,
+        "ma": "2021-12-22T16:48:26Z",
+        "oa": "2021-12-22T01:44:00Z"
+    },
+    {
+        "uml": "Cupertino",
+        "gm": {
+            "lat": 37.323,
+            "lon": -122.0323
+        },
+        "uol": "Cupertino",
+        "gop": {
+            "lat": 37.323,
+            "lon": -122.0323
+        },
+        "l": "Python",
+        "nwo": "HorizonRobotics/alf",
+        "pr": 1150,
+        "ma": "2021-12-22T19:30:36Z",
+        "oa": "2021-12-22T01:51:34Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "Swift",
+        "nwo": "apple/swift-package-manager",
+        "pr": 3963,
+        "ma": "2021-12-22T16:48:39Z",
+        "oa": "2021-12-22T01:56:33Z"
+    },
+    {
+        "uml": "Netherlands",
+        "gm": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "uol": "United Kingdom",
+        "gop": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "l": "TypeScript",
+        "nwo": "PreMiD/Presences",
+        "pr": 5078,
+        "ma": "2021-12-22T16:50:15Z",
+        "oa": "2021-12-22T02:05:16Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "Go",
+        "nwo": "projectcalico/calico",
+        "pr": 5322,
+        "ma": "2021-12-22T16:47:58Z",
+        "oa": "2021-12-22T02:06:50Z"
+    },
+    {
+        "uml": "Waterloo",
+        "gm": {
+            "lat": 42.4983,
+            "lon": -92.3369
+        },
+        "uol": "Waterloo",
+        "gop": {
+            "lat": 42.4983,
+            "lon": -92.3369
+        },
+        "l": "Julia",
+        "nwo": "comonicon/Comonicon.jl",
+        "pr": 162,
+        "ma": "2021-12-22T18:20:29Z",
+        "oa": "2021-12-22T02:14:37Z"
+    },
+    {
+        "uml": "New Hampshire",
+        "gm": {
+            "lat": 43.6898878153,
+            "lon": -71.5783054333969
+        },
+        "uol": "New Hampshire",
+        "gop": {
+            "lat": 43.6898878153,
+            "lon": -71.5783054333969
+        },
+        "l": "JavaScript",
+        "nwo": "cvisionai/tator",
+        "pr": 564,
+        "ma": "2021-12-22T19:10:21Z",
+        "oa": "2021-12-22T02:18:18Z"
+    },
+    {
+        "uml": "Netherlands",
+        "gm": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "uol": "United Kingdom",
+        "gop": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "l": "TypeScript",
+        "nwo": "PreMiD/Presences",
+        "pr": 5079,
+        "ma": "2021-12-22T18:04:25Z",
+        "oa": "2021-12-22T02:34:54Z"
+    },
+    {
+        "uml": "Berlin",
+        "gm": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "uol": "Berlin",
+        "gop": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "l": "Python",
+        "nwo": "andreoliwa/nitpick",
+        "pr": 420,
+        "ma": "2021-12-22T18:59:27Z",
+        "oa": "2021-12-22T02:58:20Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "TypeScript",
+        "nwo": "cbinsights/form-design-system",
+        "pr": 894,
+        "ma": "2021-12-22T17:59:16Z",
+        "oa": "2021-12-22T03:52:13Z"
+    },
+    {
+        "uml": "Palo Alto",
+        "gm": {
+            "lat": 37.4422,
+            "lon": -122.1634
+        },
+        "uol": "Palo Alto",
+        "gop": {
+            "lat": 37.4422,
+            "lon": -122.1634
+        },
+        "l": "JavaScript",
+        "nwo": "RecordReplay/devtools",
+        "pr": 4889,
+        "ma": "2021-12-22T17:43:55Z",
+        "oa": "2021-12-22T04:18:16Z"
+    },
+    {
+        "uml": "Seattle",
+        "gm": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "uol": "Seattle",
+        "gop": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "l": "Python",
+        "nwo": "uw-it-aca/myuw",
+        "pr": 2697,
+        "ma": "2021-12-22T17:53:24Z",
+        "oa": "2021-12-22T05:55:00Z"
+    },
+    {
+        "uml": "California City",
+        "gm": {
+            "lat": 35.1258,
+            "lon": -117.9859
+        },
+        "uol": "California City",
+        "gop": {
+            "lat": 35.1258,
+            "lon": -117.9859
+        },
+        "l": "Java",
+        "nwo": "PaperMC/Paper",
+        "pr": 7175,
+        "ma": "2021-12-22T18:20:34Z",
+        "oa": "2021-12-22T06:17:39Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "Kotlin",
+        "nwo": "coil-kt/coil",
+        "pr": 1060,
+        "ma": "2021-12-22T18:27:55Z",
+        "oa": "2021-12-22T06:32:52Z"
+    },
+    {
+        "uml": "Stockholm",
+        "gm": {
+            "lat": 59.32944,
+            "lon": 18.06861
+        },
+        "uol": "Stockholm",
+        "gop": {
+            "lat": 59.32944,
+            "lon": 18.06861
+        },
+        "l": "TypeScript",
+        "nwo": "backstage/backstage",
+        "pr": 8578,
+        "ma": "2021-12-22T16:36:06Z",
+        "oa": "2021-12-22T09:14:19Z"
+    },
+    {
+        "uml": "Bonn",
+        "gm": {
+            "lat": 50.73616,
+            "lon": 7.1002
+        },
+        "uol": "Bonn",
+        "gop": {
+            "lat": 50.73616,
+            "lon": 7.1002
+        },
+        "l": "C++",
+        "nwo": "Lyr3x/Roode",
+        "pr": 73,
+        "ma": "2021-12-22T18:06:49Z",
+        "oa": "2021-12-22T09:15:28Z"
+    },
+    {
+        "uml": "Stockholm",
+        "gm": {
+            "lat": 59.32944,
+            "lon": 18.06861
+        },
+        "uol": "Stockholm",
+        "gop": {
+            "lat": 59.32944,
+            "lon": 18.06861
+        },
+        "l": "TypeScript",
+        "nwo": "backstage/backstage",
+        "pr": 8579,
+        "ma": "2021-12-22T17:11:25Z",
+        "oa": "2021-12-22T09:30:16Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "C++",
+        "nwo": "elastic/ml-cpp",
+        "pr": 2165,
+        "ma": "2021-12-22T16:34:48Z",
+        "oa": "2021-12-22T09:49:04Z"
+    },
+    {
+        "uml": "United Kingdom",
+        "gm": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "uol": "United Kingdom",
+        "gop": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "l": "Dockerfile",
+        "nwo": "linuxserver/docker-unifi-controller",
+        "pr": 118,
+        "ma": "2021-12-22T16:55:03Z",
+        "oa": "2021-12-22T10:17:31Z"
+    },
+    {
+        "uml": "Netherlands",
+        "gm": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "Python",
+        "nwo": "Felienne/hedy",
+        "pr": 1578,
+        "ma": "2021-12-22T19:02:53Z",
+        "oa": "2021-12-22T10:33:43Z"
+    },
+    {
+        "uml": "France",
+        "gm": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "uol": "France",
+        "gop": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "l": "JavaScript",
+        "nwo": "gravitee-io/gravitee-ui-components",
+        "pr": 525,
+        "ma": "2021-12-22T16:54:25Z",
+        "oa": "2021-12-22T10:37:10Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "Java",
+        "nwo": "hibernate/hibernate-orm",
+        "pr": 4504,
+        "ma": "2021-12-22T17:16:04Z",
+        "oa": "2021-12-22T10:40:22Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Romania",
+        "gop": {
+            "lat": 45.8436147575587,
+            "lon": 24.9692584752492
+        },
+        "l": "PHP",
+        "nwo": "mailcow/mailcow-dockerized",
+        "pr": 4396,
+        "ma": "2021-12-22T18:34:50Z",
+        "oa": "2021-12-22T11:19:42Z"
+    },
+    {
+        "uml": "Berlin",
+        "gm": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "uol": "Berlin",
+        "gop": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "l": "TypeScript",
+        "nwo": "sumup-oss/circuit-ui",
+        "pr": 1328,
+        "ma": "2021-12-22T16:25:29Z",
+        "oa": "2021-12-22T11:25:11Z"
+    },
+    {
+        "uml": "Mumbai",
+        "gm": {
+            "lat": 18.96667,
+            "lon": 72.83333
+        },
+        "uol": "Mumbai",
+        "gop": {
+            "lat": 18.96667,
+            "lon": 72.83333
+        },
+        "l": "JavaScript",
+        "nwo": "RocketChat/Rocket.Chat",
+        "pr": 24012,
+        "ma": "2021-12-22T17:28:50Z",
+        "oa": "2021-12-22T11:37:34Z"
+    },
+    {
+        "uml": "United Kingdom",
+        "gm": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "uol": "United Kingdom",
+        "gop": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "l": "Lua",
+        "nwo": "tapayne88/dotfiles",
+        "pr": 48,
+        "ma": "2021-12-22T19:04:41Z",
+        "oa": "2021-12-22T12:08:56Z"
+    },
+    {
+        "uml": "Madrid",
+        "gm": {
+            "lat": 40.41889,
+            "lon": -3.69194
+        },
+        "uol": "Madrid",
+        "gop": {
+            "lat": 40.41889,
+            "lon": -3.69194
+        },
+        "l": "Go",
+        "nwo": "rancher/terraform-provider-rancher2",
+        "pr": 828,
+        "ma": "2021-12-22T19:51:09Z",
+        "oa": "2021-12-22T12:10:17Z"
+    },
+    {
+        "uml": "Hamburg",
+        "gm": {
+            "lat": 53.55,
+            "lon": 10
+        },
+        "uol": "Hamburg",
+        "gop": {
+            "lat": 53.55,
+            "lon": 10
+        },
+        "l": "Python",
+        "nwo": "pangeo-data/climpred",
+        "pr": 714,
+        "ma": "2021-12-22T19:28:06Z",
+        "oa": "2021-12-22T12:24:50Z"
+    },
+    {
+        "uml": "Warsaw",
+        "gm": {
+            "lat": 52.21667,
+            "lon": 21.03333
+        },
+        "uol": "Warsaw",
+        "gop": {
+            "lat": 52.21667,
+            "lon": 21.03333
+        },
+        "l": "R",
+        "nwo": "Roche/crmPack",
+        "pr": 72,
+        "ma": "2021-12-22T19:19:38Z",
+        "oa": "2021-12-22T12:30:40Z"
+    },
+    {
+        "uml": "Antwerp",
+        "gm": {
+            "lat": 51.2211097,
+            "lon": 4.3997081
+        },
+        "uol": "Belgium",
+        "gop": {
+            "lat": 50.438696,
+            "lon": 4.63357500000001
+        },
+        "l": "Java",
+        "nwo": "apache/incubator-hop",
+        "pr": 1241,
+        "ma": "2021-12-22T18:52:12Z",
+        "oa": "2021-12-22T12:49:25Z"
+    },
+    {
+        "uml": "France",
+        "gm": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "uol": "France",
+        "gop": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "l": "JavaScript",
+        "nwo": "gravitee-io/gravitee-ui-components",
+        "pr": 526,
+        "ma": "2021-12-22T16:35:02Z",
+        "oa": "2021-12-22T12:51:24Z"
+    },
+    {
+        "uml": "Spain",
+        "gm": {
+            "lat": 41.2948556295683,
+            "lon": -4.05568501525488
+        },
+        "uol": "Spain",
+        "gop": {
+            "lat": 41.2948556295683,
+            "lon": -4.05568501525488
+        },
+        "l": "Python",
+        "nwo": "DataDog/integrations-core",
+        "pr": 10927,
+        "ma": "2021-12-22T16:47:42Z",
+        "oa": "2021-12-22T12:56:30Z"
+    },
+    {
+        "uml": "Spain",
+        "gm": {
+            "lat": 41.2948556295683,
+            "lon": -4.05568501525488
+        },
+        "uol": "Spain",
+        "gop": {
+            "lat": 41.2948556295683,
+            "lon": -4.05568501525488
+        },
+        "l": "Python",
+        "nwo": "doofinder/pydoof",
+        "pr": 32,
+        "ma": "2021-12-22T17:21:54Z",
+        "oa": "2021-12-22T13:15:30Z"
+    },
+    {
+        "uml": "Montreal",
+        "gm": {
+            "lat": 45.497216,
+            "lon": -73.610364
+        },
+        "uol": "Montreal",
+        "gop": {
+            "lat": 45.497216,
+            "lon": -73.610364
+        },
+        "l": "Go",
+        "nwo": "hashicorp/terraform-provider-vault",
+        "pr": 1270,
+        "ma": "2021-12-22T17:12:53Z",
+        "oa": "2021-12-22T13:20:46Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Berlin",
+        "gop": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "l": "Shell",
+        "nwo": "rubo77/log4j_checker_beta",
+        "pr": 18,
+        "ma": "2021-12-22T18:22:43Z",
+        "oa": "2021-12-22T13:21:32Z"
+    },
+    {
+        "uml": "Holland",
+        "gm": {
+            "lat": 42.7876,
+            "lon": -86.1091
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "Ruby",
+        "nwo": "Homebrew/homebrew-cask",
+        "pr": 116312,
+        "ma": "2021-12-22T18:59:06Z",
+        "oa": "2021-12-22T13:25:23Z"
+    },
+    {
+        "uml": "Holland",
+        "gm": {
+            "lat": 42.7876,
+            "lon": -86.1091
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "Ruby",
+        "nwo": "Homebrew/homebrew-cask",
+        "pr": 116313,
+        "ma": "2021-12-22T18:59:16Z",
+        "oa": "2021-12-22T13:26:22Z"
+    },
+    {
+        "uml": "Zurich",
+        "gm": {
+            "lat": 47.37861,
+            "lon": 8.54
+        },
+        "uol": "Switzerland",
+        "gop": {
+            "lat": 46.8024955829499,
+            "lon": 8.23439191387853
+        },
+        "l": "C#",
+        "nwo": "ChilliCream/hotchocolate",
+        "pr": 4586,
+        "ma": "2021-12-22T18:02:06Z",
+        "oa": "2021-12-22T13:32:19Z"
+    },
+    {
+        "uml": "Paris",
+        "gm": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "uol": "Paris",
+        "gop": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "l": "PHP",
+        "nwo": "EnMarche/en-marche.fr",
+        "pr": 6685,
+        "ma": "2021-12-22T16:59:16Z",
+        "oa": "2021-12-22T13:33:58Z"
+    },
+    {
+        "uml": "Paris",
+        "gm": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "uol": "Paris",
+        "gop": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "l": "JavaScript",
+        "nwo": "betagouv/eva",
+        "pr": 1110,
+        "ma": "2021-12-22T18:11:57Z",
+        "oa": "2021-12-22T13:34:37Z"
+    },
+    {
+        "uml": "Taiwan",
+        "gm": {
+            "lat": 23.7779779950014,
+            "lon": 120.930229378541
+        },
+        "uol": "Taiwan",
+        "gop": {
+            "lat": 23.7779779950014,
+            "lon": 120.930229378541
+        },
+        "l": "Java",
+        "nwo": "sublimehq/Packages",
+        "pr": 3174,
+        "ma": "2021-12-22T17:11:24Z",
+        "oa": "2021-12-22T13:38:50Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "Python",
+        "nwo": "metabrainz/picard",
+        "pr": 2007,
+        "ma": "2021-12-22T16:47:59Z",
+        "oa": "2021-12-22T13:43:10Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "Python",
+        "nwo": "metabrainz/picard",
+        "pr": 2008,
+        "ma": "2021-12-22T16:52:37Z",
+        "oa": "2021-12-22T13:45:32Z"
+    },
+    {
+        "uml": "Kyiv",
+        "gm": {
+            "lat": 50.4501,
+            "lon": 30.5241
+        },
+        "uol": "Kyiv",
+        "gop": {
+            "lat": 50.4501,
+            "lon": 30.5241
+        },
+        "l": "Java",
+        "nwo": "airbytehq/airbyte",
+        "pr": 9042,
+        "ma": "2021-12-22T16:32:34Z",
+        "oa": "2021-12-22T14:01:00Z"
+    },
+    {
+        "uml": "Geneva",
+        "gm": {
+            "lat": 46.2,
+            "lon": 6.15
+        },
+        "uol": "Dresden",
+        "gop": {
+            "lat": 51.05,
+            "lon": 13.75
+        },
+        "l": "C++",
+        "nwo": "alpaka-group/alpaka",
+        "pr": 1551,
+        "ma": "2021-12-22T16:24:31Z",
+        "oa": "2021-12-22T14:03:35Z"
+    },
+    {
+        "uml": "Italy",
+        "gm": {
+            "lat": 42.5041539170675,
+            "lon": 12.6463610364431
+        },
+        "uol": "Italy",
+        "gop": {
+            "lat": 42.5041539170675,
+            "lon": 12.6463610364431
+        },
+        "l": "C",
+        "nwo": "mozilla/rust-code-analysis",
+        "pr": 734,
+        "ma": "2021-12-22T17:06:35Z",
+        "oa": "2021-12-22T14:03:57Z"
+    },
+    {
+        "uml": "Russia",
+        "gm": {
+            "lat": 61.9945734073292,
+            "lon": 96.6697054604756
+        },
+        "uol": "Russia",
+        "gop": {
+            "lat": 61.9945734073292,
+            "lon": 96.6697054604756
+        },
+        "l": "Python",
+        "nwo": "openvinotoolkit/training_extensions",
+        "pr": 810,
+        "ma": "2021-12-22T16:55:48Z",
+        "oa": "2021-12-22T14:10:45Z"
+    },
+    {
+        "uml": "Berlin",
+        "gm": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "uol": "Berlin",
+        "gop": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "l": "C",
+        "nwo": "pygame/pygame",
+        "pr": 2942,
+        "ma": "2021-12-22T18:53:05Z",
+        "oa": "2021-12-22T14:14:02Z"
+    },
+    {
+        "uml": "Toronto",
+        "gm": {
+            "lat": 43.653482,
+            "lon": -79.383935
+        },
+        "uol": "Toronto",
+        "gop": {
+            "lat": 43.653482,
+            "lon": -79.383935
+        },
+        "l": "Python",
+        "nwo": "getsentry/sentry",
+        "pr": 30816,
+        "ma": "2021-12-22T16:26:41Z",
+        "oa": "2021-12-22T14:16:26Z"
+    },
+    {
+        "uml": "Ukraine",
+        "gm": {
+            "lat": 49.3227937844972,
+            "lon": 31.3202829593814
+        },
+        "uol": "Ukraine",
+        "gop": {
+            "lat": 49.3227937844972,
+            "lon": 31.3202829593814
+        },
+        "l": "C++",
+        "nwo": "uglide/RedisDesktopManager",
+        "pr": 5161,
+        "ma": "2021-12-22T16:47:59Z",
+        "oa": "2021-12-22T14:26:14Z"
+    },
+    {
+        "uml": "France",
+        "gm": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "uol": "France",
+        "gop": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "l": "PHP",
+        "nwo": "PHPMailer/PHPMailer",
+        "pr": 2588,
+        "ma": "2021-12-22T18:56:30Z",
+        "oa": "2021-12-22T14:42:01Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "Maine",
+        "gop": {
+            "lat": 45.3982848479,
+            "lon": -69.2365510393463
+        },
+        "l": "JavaScript",
+        "nwo": "xh/hoist-react",
+        "pr": 2832,
+        "ma": "2021-12-22T17:27:03Z",
+        "oa": "2021-12-22T14:48:34Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "JavaScript",
+        "nwo": "department-of-veterans-affairs/vets-website",
+        "pr": 19747,
+        "ma": "2021-12-22T19:16:23Z",
+        "oa": "2021-12-22T14:49:21Z"
+    },
+    {
+        "uml": "Budapest",
+        "gm": {
+            "lat": 47.49833,
+            "lon": 19.04083
+        },
+        "uol": "Budapest",
+        "gop": {
+            "lat": 47.49833,
+            "lon": 19.04083
+        },
+        "l": "TypeScript",
+        "nwo": "tallycash/extension",
+        "pr": 743,
+        "ma": "2021-12-22T16:59:52Z",
+        "oa": "2021-12-22T15:12:12Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "Python",
+        "nwo": "metabrainz/picard",
+        "pr": 2009,
+        "ma": "2021-12-22T16:49:25Z",
+        "oa": "2021-12-22T15:12:52Z"
+    },
+    {
+        "uml": "Montreal",
+        "gm": {
+            "lat": 45.497216,
+            "lon": -73.610364
+        },
+        "uol": "Montreal",
+        "gop": {
+            "lat": 45.497216,
+            "lon": -73.610364
+        },
+        "l": "TypeScript",
+        "nwo": "elastic/kibana",
+        "pr": 121884,
+        "ma": "2021-12-22T17:05:37Z",
+        "oa": "2021-12-22T15:16:23Z"
+    },
+    {
+        "uml": "Russia",
+        "gm": {
+            "lat": 61.9945734073292,
+            "lon": 96.6697054604756
+        },
+        "uol": "Czech Republic",
+        "gop": {
+            "lat": 49.7428590048094,
+            "lon": 15.3384118376873
+        },
+        "l": "C++",
+        "nwo": "YaLTeR/BunnymodXT",
+        "pr": 242,
+        "ma": "2021-12-22T17:29:26Z",
+        "oa": "2021-12-22T15:16:55Z"
+    },
+    {
+        "uml": "Munich",
+        "gm": {
+            "lat": 48.13333,
+            "lon": 11.56667
+        },
+        "uol": "Munich",
+        "gop": {
+            "lat": 48.13333,
+            "lon": 11.56667
+        },
+        "l": "TypeScript",
+        "nwo": "satellytes/satellytes.cgn.mdn",
+        "pr": 308,
+        "ma": "2021-12-22T16:29:06Z",
+        "oa": "2021-12-22T15:27:45Z"
+    },
+    {
+        "uml": "Warsaw",
+        "gm": {
+            "lat": 52.21667,
+            "lon": 21.03333
+        },
+        "uol": "Warsaw",
+        "gop": {
+            "lat": 52.21667,
+            "lon": 21.03333
+        },
+        "l": "Python",
+        "nwo": "apache/airflow",
+        "pr": 20463,
+        "ma": "2021-12-22T16:52:20Z",
+        "oa": "2021-12-22T15:27:55Z"
+    },
+    {
+        "uml": "Washington",
+        "gm": {
+            "lat": 38.895,
+            "lon": -77.0366
+        },
+        "uol": "Washington",
+        "gop": {
+            "lat": 38.895,
+            "lon": -77.0366
+        },
+        "l": "JavaScript",
+        "nwo": "CBIIT/bento-frontend",
+        "pr": 455,
+        "ma": "2021-12-22T18:10:01Z",
+        "oa": "2021-12-22T15:34:18Z"
+    },
+    {
+        "uml": "Cologne",
+        "gm": {
+            "lat": 50.94222,
+            "lon": 6.95778
+        },
+        "uol": "Cologne",
+        "gop": {
+            "lat": 50.94222,
+            "lon": 6.95778
+        },
+        "l": "Python",
+        "nwo": "arangodb/release-test-automation",
+        "pr": 210,
+        "ma": "2021-12-22T17:13:34Z",
+        "oa": "2021-12-22T15:36:19Z"
+    },
+    {
+        "uml": "Italy",
+        "gm": {
+            "lat": 42.5041539170675,
+            "lon": 12.6463610364431
+        },
+        "uol": "Cesena",
+        "gop": {
+            "lat": 44.13333,
+            "lon": 12.23333
+        },
+        "l": "Java",
+        "nwo": "AlchemistSimulator/Alchemist",
+        "pr": 996,
+        "ma": "2021-12-22T16:43:41Z",
+        "oa": "2021-12-22T15:41:14Z"
+    },
+    {
+        "uml": "Switzerland",
+        "gm": {
+            "lat": 46.8024955829499,
+            "lon": 8.23439191387853
+        },
+        "uol": "Switzerland",
+        "gop": {
+            "lat": 46.8024955829499,
+            "lon": 8.23439191387853
+        },
+        "l": "Java",
+        "nwo": "SonarSource/sonar-java",
+        "pr": 3885,
+        "ma": "2021-12-22T16:39:22Z",
+        "oa": "2021-12-22T15:41:50Z"
+    },
+    {
+        "uml": "Lausanne",
+        "gm": {
+            "lat": 46.53333,
+            "lon": 6.63333
+        },
+        "uol": "Lausanne",
+        "gop": {
+            "lat": 46.53333,
+            "lon": 6.63333
+        },
+        "l": "Scala",
+        "nwo": "scalacenter/scaladex",
+        "pr": 770,
+        "ma": "2021-12-22T17:18:42Z",
+        "oa": "2021-12-22T15:42:37Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "HTML",
+        "nwo": "programminghistorian/jekyll",
+        "pr": 2452,
+        "ma": "2021-12-22T19:12:26Z",
+        "oa": "2021-12-22T15:44:49Z"
+    },
+    {
+        "uml": "Paris",
+        "gm": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "uol": "Paris",
+        "gop": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "l": "TypeScript",
+        "nwo": "facebook/docusaurus",
+        "pr": 6166,
+        "ma": "2021-12-22T18:10:50Z",
+        "oa": "2021-12-22T15:48:04Z"
+    },
+    {
+        "uml": "Hamburg",
+        "gm": {
+            "lat": 53.55,
+            "lon": 10
+        },
+        "uol": "Hamburg",
+        "gop": {
+            "lat": 53.55,
+            "lon": 10
+        },
+        "l": "Python",
+        "nwo": "pangeo-data/climpred",
+        "pr": 715,
+        "ma": "2021-12-22T17:30:18Z",
+        "oa": "2021-12-22T15:48:54Z"
+    },
+    {
+        "uml": "Geneva",
+        "gm": {
+            "lat": 46.2,
+            "lon": 6.15
+        },
+        "uol": "Geneva",
+        "gop": {
+            "lat": 46.2,
+            "lon": 6.15
+        },
+        "l": "Python",
+        "nwo": "okorach/sonarqube-tools",
+        "pr": 276,
+        "ma": "2021-12-22T17:58:07Z",
+        "oa": "2021-12-22T15:51:13Z"
+    },
+    {
+        "uml": "Chile",
+        "gm": {
+            "lat": -26.783346,
+            "lon": -69.761008
+        },
+        "uol": "Uruguay",
+        "gop": {
+            "lat": -32.7996455126793,
+            "lon": -56.012396238658
+        },
+        "l": "Scala",
+        "nwo": "gemini-hlsw/lucuma-core",
+        "pr": 434,
+        "ma": "2021-12-22T16:44:38Z",
+        "oa": "2021-12-22T15:51:41Z"
+    },
+    {
+        "uml": "Canada",
+        "gm": {
+            "lat": 55.5859012851966,
+            "lon": -105.750595856519
+        },
+        "uol": "Canada",
+        "gop": {
+            "lat": 55.5859012851966,
+            "lon": -105.750595856519
+        },
+        "l": "CSS",
+        "nwo": "trustbloc/wallet",
+        "pr": 1378,
+        "ma": "2021-12-22T16:47:32Z",
+        "oa": "2021-12-22T15:54:35Z"
+    },
+    {
+        "uml": "France",
+        "gm": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "uol": "France",
+        "gop": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "l": "Rust",
+        "nwo": "PureStake/moonbeam",
+        "pr": 1115,
+        "ma": "2021-12-22T18:49:25Z",
+        "oa": "2021-12-22T15:54:36Z"
+    },
+    {
+        "uml": "Utrecht",
+        "gm": {
+            "lat": 52.08889,
+            "lon": 5.11556
+        },
+        "uol": "Utrecht",
+        "gop": {
+            "lat": 52.08889,
+            "lon": 5.11556
+        },
+        "l": "Rust",
+        "nwo": "pola-rs/polars",
+        "pr": 2127,
+        "ma": "2021-12-22T17:22:40Z",
+        "oa": "2021-12-22T15:57:40Z"
+    },
+    {
+        "uml": "Nigeria",
+        "gm": {
+            "lat": 9.59395988695573,
+            "lon": 8.10530640960786
+        },
+        "uol": "Nigeria",
+        "gop": {
+            "lat": 9.59395988695573,
+            "lon": 8.10530640960786
+        },
+        "l": "TypeScript",
+        "nwo": "grafana/grafana",
+        "pr": 43468,
+        "ma": "2021-12-22T17:11:08Z",
+        "oa": "2021-12-22T15:59:35Z"
+    },
+    {
+        "uml": "San Diego",
+        "gm": {
+            "lat": 32.7174,
+            "lon": -117.1628
+        },
+        "uol": "San Diego",
+        "gop": {
+            "lat": 32.7174,
+            "lon": -117.1628
+        },
+        "l": "JavaScript",
+        "nwo": "nteract/semiotic",
+        "pr": 584,
+        "ma": "2021-12-22T17:56:00Z",
+        "oa": "2021-12-22T16:01:10Z"
+    },
+    {
+        "uml": "Chicago",
+        "gm": {
+            "lat": 41.8756,
+            "lon": -87.6244
+        },
+        "uol": "Budapest",
+        "gop": {
+            "lat": 47.49833,
+            "lon": 19.04083
+        },
+        "l": "TypeScript",
+        "nwo": "tallycash/extension",
+        "pr": 744,
+        "ma": "2021-12-22T16:33:42Z",
+        "oa": "2021-12-22T16:03:33Z"
+    },
+    {
+        "uml": "Texas",
+        "gm": {
+            "lat": 31.8039734986,
+            "lon": -98.8223185136653
+        },
+        "uol": "Texas",
+        "gop": {
+            "lat": 31.8039734986,
+            "lon": -98.8223185136653
+        },
+        "l": "Rust",
+        "nwo": "clap-rs/clap",
+        "pr": 3208,
+        "ma": "2021-12-22T16:44:21Z",
+        "oa": "2021-12-22T16:10:14Z"
+    },
+    {
+        "uml": "Edinburgh",
+        "gm": {
+            "lat": 55.953345599999984,
+            "lon": -3.1883749
+        },
+        "uol": "Edinburgh",
+        "gop": {
+            "lat": 55.953345599999984,
+            "lon": -3.1883749
+        },
+        "l": "Java",
+        "nwo": "qupath/qupath",
+        "pr": 870,
+        "ma": "2021-12-22T16:36:58Z",
+        "oa": "2021-12-22T16:15:37Z"
+    },
+    {
+        "uml": "Sweden",
+        "gm": {
+            "lat": 64.9648751621697,
+            "lon": 17.6754094331351
+        },
+        "uol": "Sweden",
+        "gop": {
+            "lat": 64.9648751621697,
+            "lon": 17.6754094331351
+        },
+        "l": "C++",
+        "nwo": "DarkflameUniverse/DarkflameServer",
+        "pr": 294,
+        "ma": "2021-12-22T16:55:53Z",
+        "oa": "2021-12-22T16:16:47Z"
+    },
+    {
+        "uml": "Pune",
+        "gm": {
+            "lat": 18.52361,
+            "lon": 73.84778
+        },
+        "uol": "Pune",
+        "gop": {
+            "lat": 18.52361,
+            "lon": 73.84778
+        },
+        "l": "Python",
+        "nwo": "SatelliteQE/airgun",
+        "pr": 647,
+        "ma": "2021-12-22T16:35:57Z",
+        "oa": "2021-12-22T16:17:51Z"
+    },
+    {
+        "uml": "San Diego",
+        "gm": {
+            "lat": 32.7174,
+            "lon": -117.1628
+        },
+        "uol": "San Diego",
+        "gop": {
+            "lat": 32.7174,
+            "lon": -117.1628
+        },
+        "l": "JavaScript",
+        "nwo": "nteract/semiotic",
+        "pr": 585,
+        "ma": "2021-12-22T17:56:32Z",
+        "oa": "2021-12-22T16:19:21Z"
+    },
+    {
+        "uml": "Baltimore",
+        "gm": {
+            "lat": 39.2909,
+            "lon": -76.6108
+        },
+        "uol": "Baltimore",
+        "gop": {
+            "lat": 39.2909,
+            "lon": -76.6108
+        },
+        "l": "Elixir",
+        "nwo": "GSA/Challenge_gov",
+        "pr": 465,
+        "ma": "2021-12-22T16:25:28Z",
+        "oa": "2021-12-22T16:21:06Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "C++",
+        "nwo": "Azure/azure-remote-rendering-asset-tool",
+        "pr": 103,
+        "ma": "2021-12-22T16:49:22Z",
+        "oa": "2021-12-22T16:23:25Z"
+    },
+    {
+        "uml": "New Delhi",
+        "gm": {
+            "lat": 28.7,
+            "lon": 77.2
+        },
+        "uol": "New Delhi",
+        "gop": {
+            "lat": 28.7,
+            "lon": 77.2
+        },
+        "l": "Kotlin",
+        "nwo": "android-password-store/Android-Password-Store",
+        "pr": 1601,
+        "ma": "2021-12-22T16:27:43Z",
+        "oa": "2021-12-22T16:26:51Z"
+    },
+    {
+        "uml": "Heidelberg",
+        "gm": {
+            "lat": 49.41222,
+            "lon": 8.71
+        },
+        "uol": "Heidelberg",
+        "gop": {
+            "lat": 49.41222,
+            "lon": 8.71
+        },
+        "l": "Python",
+        "nwo": "bioimage-io/spec-bioimage-io",
+        "pr": 359,
+        "ma": "2021-12-22T17:06:16Z",
+        "oa": "2021-12-22T16:27:29Z"
+    },
+    {
+        "uml": "Hradec Králové",
+        "gm": {
+            "lat": 50.20917,
+            "lon": 15.83194
+        },
+        "uol": "Hradec Králové",
+        "gop": {
+            "lat": 50.20917,
+            "lon": 15.83194
+        },
+        "l": "Python",
+        "nwo": "input-output-hk/cardano-node-tests",
+        "pr": 854,
+        "ma": "2021-12-22T16:27:54Z",
+        "oa": "2021-12-22T16:27:46Z"
+    },
+    {
+        "uml": "Netherlands",
+        "gm": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "TeX",
+        "nwo": "DIAGNijmegen/website-content",
+        "pr": 420,
+        "ma": "2021-12-22T16:32:39Z",
+        "oa": "2021-12-22T16:29:08Z"
+    },
+    {
+        "uml": "Warsaw",
+        "gm": {
+            "lat": 52.21667,
+            "lon": 21.03333
+        },
+        "uol": "Warsaw",
+        "gop": {
+            "lat": 52.21667,
+            "lon": 21.03333
+        },
+        "l": "Shell",
+        "nwo": "phoenix-rtos/phoenix-rtos-project",
+        "pr": 275,
+        "ma": "2021-12-22T16:47:31Z",
+        "oa": "2021-12-22T16:30:14Z"
+    },
+    {
+        "uml": "South Korea",
+        "gm": {
+            "lat": 36.5362364654109,
+            "lon": 128.168944342317
+        },
+        "uol": "South Korea",
+        "gop": {
+            "lat": 36.5362364654109,
+            "lon": 128.168944342317
+        },
+        "l": "Go",
+        "nwo": "yorkie-team/yorkie",
+        "pr": 285,
+        "ma": "2021-12-22T16:47:31Z",
+        "oa": "2021-12-22T16:30:40Z"
+    },
+    {
+        "uml": "Jakarta",
+        "gm": {
+            "lat": -6.16667,
+            "lon": 106.8
+        },
+        "uol": "Jakarta",
+        "gop": {
+            "lat": -6.16667,
+            "lon": 106.8
+        },
+        "l": "Go",
+        "nwo": "williamchanrico/planet-exporter",
+        "pr": 16,
+        "ma": "2021-12-22T16:31:19Z",
+        "oa": "2021-12-22T16:31:08Z"
+    },
+    {
+        "uml": "Lidingö",
+        "gm": {
+            "lat": 59.36639,
+            "lon": 18.13556
+        },
+        "uol": "Stockholm",
+        "gop": {
+            "lat": 59.32944,
+            "lon": 18.06861
+        },
+        "l": "Python",
+        "nwo": "ScienceBasedTargets/SBTi-finance-tool",
+        "pr": 268,
+        "ma": "2021-12-22T16:37:54Z",
+        "oa": "2021-12-22T16:34:03Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "OCaml",
+        "nwo": "darklang/dark",
+        "pr": 3339,
+        "ma": "2021-12-22T17:20:09Z",
+        "oa": "2021-12-22T16:34:54Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "TypeScript",
+        "nwo": "PostHog/posthog.cgn.mdn",
+        "pr": 2655,
+        "ma": "2021-12-22T16:46:54Z",
+        "oa": "2021-12-22T16:40:31Z"
+    },
+    {
+        "uml": "South Korea",
+        "gm": {
+            "lat": 36.5362364654109,
+            "lon": 128.168944342317
+        },
+        "uol": "Greece",
+        "gop": {
+            "lat": 38.5890212896367,
+            "lon": 23.8285537394706
+        },
+        "l": "Rust",
+        "nwo": "swc-project/swc",
+        "pr": 3102,
+        "ma": "2021-12-22T17:53:04Z",
+        "oa": "2021-12-22T16:41:48Z"
+    },
+    {
+        "uml": "Canada",
+        "gm": {
+            "lat": 55.5859012851966,
+            "lon": -105.750595856519
+        },
+        "uol": "Canada",
+        "gop": {
+            "lat": 55.5859012851966,
+            "lon": -105.750595856519
+        },
+        "l": "Java",
+        "nwo": "GoogleCloudPlatform/bank-of-anthos",
+        "pr": 577,
+        "ma": "2021-12-22T17:04:46Z",
+        "oa": "2021-12-22T16:43:37Z"
+    },
+    {
+        "uml": "Canada",
+        "gm": {
+            "lat": 55.5859012851966,
+            "lon": -105.750595856519
+        },
+        "uol": "Canada",
+        "gop": {
+            "lat": 55.5859012851966,
+            "lon": -105.750595856519
+        },
+        "l": "Python",
+        "nwo": "GoogleCloudPlatform/microservices-demo",
+        "pr": 671,
+        "ma": "2021-12-22T17:04:50Z",
+        "oa": "2021-12-22T16:43:39Z"
+    },
+    {
+        "uml": "United Kingdom",
+        "gm": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "TypeScript",
+        "nwo": "PreMiD/Presences",
+        "pr": 5082,
+        "ma": "2021-12-22T16:49:31Z",
+        "oa": "2021-12-22T16:44:47Z"
+    },
+    {
+        "uml": "Barcelona",
+        "gm": {
+            "lat": 41.3825,
+            "lon": 2.17694
+        },
+        "uol": "Barcelona",
+        "gop": {
+            "lat": 41.3825,
+            "lon": 2.17694
+        },
+        "l": "Groovy",
+        "nwo": "opendevstack/ods-jenkins-shared-library",
+        "pr": 822,
+        "ma": "2021-12-22T16:51:36Z",
+        "oa": "2021-12-22T16:46:19Z"
+    },
+    {
+        "uml": "Paris",
+        "gm": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "uol": "Paris",
+        "gop": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "l": "Python",
+        "nwo": "betagouv/itou",
+        "pr": 1039,
+        "ma": "2021-12-22T17:04:12Z",
+        "oa": "2021-12-22T16:47:40Z"
+    },
+    {
+        "uml": "New England",
+        "gm": {
+            "lat": 46.5392,
+            "lon": -102.8682
+        },
+        "uol": "New England",
+        "gop": {
+            "lat": 46.5392,
+            "lon": -102.8682
+        },
+        "l": "JavaScript",
+        "nwo": "cfpb/ccdb5-ui",
+        "pr": 377,
+        "ma": "2021-12-22T17:58:49Z",
+        "oa": "2021-12-22T16:48:23Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "JavaScript",
+        "nwo": "chess-centre/platform",
+        "pr": 449,
+        "ma": "2021-12-22T16:50:49Z",
+        "oa": "2021-12-22T16:50:29Z"
+    },
+    {
+        "uml": "Toronto",
+        "gm": {
+            "lat": 43.653482,
+            "lon": -79.383935
+        },
+        "uol": "Toronto",
+        "gop": {
+            "lat": 43.653482,
+            "lon": -79.383935
+        },
+        "l": "TypeScript",
+        "nwo": "nrwl/nx",
+        "pr": 8280,
+        "ma": "2021-12-22T17:51:16Z",
+        "oa": "2021-12-22T16:50:46Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "Go",
+        "nwo": "projectcalico/calico",
+        "pr": 5326,
+        "ma": "2021-12-22T19:52:17Z",
+        "oa": "2021-12-22T16:50:48Z"
+    },
+    {
+        "uml": "Jakarta",
+        "gm": {
+            "lat": -6.16667,
+            "lon": 106.8
+        },
+        "uol": "Jakarta",
+        "gop": {
+            "lat": -6.16667,
+            "lon": 106.8
+        },
+        "l": "Go",
+        "nwo": "williamchanrico/planet-exporter",
+        "pr": 17,
+        "ma": "2021-12-22T16:51:11Z",
+        "oa": "2021-12-22T16:51:01Z"
+    },
+    {
+        "uml": "Texas",
+        "gm": {
+            "lat": 31.8039734986,
+            "lon": -98.8223185136653
+        },
+        "uol": "Texas",
+        "gop": {
+            "lat": 31.8039734986,
+            "lon": -98.8223185136653
+        },
+        "l": "Ruby",
+        "nwo": "discourse/discourse",
+        "pr": 15392,
+        "ma": "2021-12-22T17:09:43Z",
+        "oa": "2021-12-22T16:52:29Z"
+    },
+    {
+        "uml": "Shanghai",
+        "gm": {
+            "lat": 31.16667,
+            "lon": 121.46667
+        },
+        "uol": "Shanghai",
+        "gop": {
+            "lat": 31.16667,
+            "lon": 121.46667
+        },
+        "l": "C#",
+        "nwo": "ant-design-blazor/ant-design-blazor",
+        "pr": 2194,
+        "ma": "2021-12-22T17:09:27Z",
+        "oa": "2021-12-22T16:53:24Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "TypeScript",
+        "nwo": "IDEMSInternational/parenting-app-ui",
+        "pr": 1146,
+        "ma": "2021-12-22T16:54:37Z",
+        "oa": "2021-12-22T16:54:19Z"
+    },
+    {
+        "uml": "Chicago",
+        "gm": {
+            "lat": 41.8756,
+            "lon": -87.6244
+        },
+        "uol": "Chicago",
+        "gop": {
+            "lat": 41.8756,
+            "lon": -87.6244
+        },
+        "l": "Go",
+        "nwo": "gomorpheus/terraform-provider-morpheus",
+        "pr": 21,
+        "ma": "2021-12-22T16:55:51Z",
+        "oa": "2021-12-22T16:55:32Z"
+    },
+    {
+        "uml": "United Kingdom",
+        "gm": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "TypeScript",
+        "nwo": "PreMiD/Presences",
+        "pr": 5083,
+        "ma": "2021-12-22T16:56:27Z",
+        "oa": "2021-12-22T16:55:38Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "PHP",
+        "nwo": "MESH-Research/CCR",
+        "pr": 757,
+        "ma": "2021-12-22T17:07:52Z",
+        "oa": "2021-12-22T16:55:40Z"
+    },
+    {
+        "uml": "Trondheim",
+        "gm": {
+            "lat": 63.44,
+            "lon": 10.4
+        },
+        "uol": "Trondheim",
+        "gop": {
+            "lat": 63.44,
+            "lon": 10.4
+        },
+        "l": "JavaScript",
+        "nwo": "NordicSemiconductor/pc-nrfconnect-launcher",
+        "pr": 628,
+        "ma": "2021-12-22T17:06:50Z",
+        "oa": "2021-12-22T16:55:44Z"
+    },
+    {
+        "uml": "New Jersey",
+        "gm": {
+            "lat": 40.1502478924,
+            "lon": -74.3893168105238
+        },
+        "uol": "New Jersey",
+        "gop": {
+            "lat": 40.1502478924,
+            "lon": -74.3893168105238
+        },
+        "l": "JavaScript",
+        "nwo": "4Catalyzer/astroturf",
+        "pr": 737,
+        "ma": "2021-12-22T17:02:59Z",
+        "oa": "2021-12-22T16:58:42Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "Svelte",
+        "nwo": "sveltejs/sites",
+        "pr": 241,
+        "ma": "2021-12-22T17:43:06Z",
+        "oa": "2021-12-22T17:00:02Z"
+    },
+    {
+        "uml": "France",
+        "gm": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "uol": "France",
+        "gop": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "l": "Java",
+        "nwo": "DGEXSolutions/osrd",
+        "pr": 432,
+        "ma": "2021-12-22T17:04:51Z",
+        "oa": "2021-12-22T17:00:25Z"
+    },
+    {
+        "uml": "Paris",
+        "gm": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "uol": "Paris",
+        "gop": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "l": "R",
+        "nwo": "rstudio/rmarkdown",
+        "pr": 2265,
+        "ma": "2021-12-22T17:13:36Z",
+        "oa": "2021-12-22T17:00:40Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "TypeScript",
+        "nwo": "PostHog/posthog.cgn.mdn",
+        "pr": 2657,
+        "ma": "2021-12-22T17:31:33Z",
+        "oa": "2021-12-22T17:02:16Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "JavaScript",
+        "nwo": "chess-centre/platform",
+        "pr": 450,
+        "ma": "2021-12-22T17:03:04Z",
+        "oa": "2021-12-22T17:02:34Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "TypeScript",
+        "nwo": "cbinsights/form-design-system",
+        "pr": 900,
+        "ma": "2021-12-22T17:04:31Z",
+        "oa": "2021-12-22T17:02:56Z"
+    },
+    {
+        "uml": "Amsterdam",
+        "gm": {
+            "lat": 52.378,
+            "lon": 4.9
+        },
+        "uol": "Amsterdam",
+        "gop": {
+            "lat": 52.378,
+            "lon": 4.9
+        },
+        "l": "Python",
+        "nwo": "Yorko/mlcourse.ai",
+        "pr": 691,
+        "ma": "2021-12-22T17:50:48Z",
+        "oa": "2021-12-22T17:03:20Z"
+    },
+    {
+        "uml": "Madrid",
+        "gm": {
+            "lat": 40.41889,
+            "lon": -3.69194
+        },
+        "uol": "Madrid",
+        "gop": {
+            "lat": 40.41889,
+            "lon": -3.69194
+        },
+        "l": "Python",
+        "nwo": "recognai/rubrix",
+        "pr": 850,
+        "ma": "2021-12-22T17:53:16Z",
+        "oa": "2021-12-22T17:03:31Z"
+    },
+    {
+        "uml": "Switzerland",
+        "gm": {
+            "lat": 46.8024955829499,
+            "lon": 8.23439191387853
+        },
+        "uol": "Switzerland",
+        "gop": {
+            "lat": 46.8024955829499,
+            "lon": 8.23439191387853
+        },
+        "l": "C#",
+        "nwo": "adamralph/minver",
+        "pr": 645,
+        "ma": "2021-12-22T17:30:37Z",
+        "oa": "2021-12-22T17:03:38Z"
+    },
+    {
+        "uml": "Sweden",
+        "gm": {
+            "lat": 64.9648751621697,
+            "lon": 17.6754094331351
+        },
+        "uol": "Sweden",
+        "gop": {
+            "lat": 64.9648751621697,
+            "lon": 17.6754094331351
+        },
+        "l": "JavaScript",
+        "nwo": "kokarn/tarkov-tools",
+        "pr": 125,
+        "ma": "2021-12-22T18:02:44Z",
+        "oa": "2021-12-22T17:04:07Z"
+    },
+    {
+        "uml": "United Kingdom",
+        "gm": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "TypeScript",
+        "nwo": "PreMiD/Presences",
+        "pr": 5084,
+        "ma": "2021-12-22T17:15:37Z",
+        "oa": "2021-12-22T17:08:30Z"
+    },
+    {
+        "uml": "Philadelphia",
+        "gm": {
+            "lat": 40.0115,
+            "lon": -75.1327
+        },
+        "uol": "Philadelphia",
+        "gop": {
+            "lat": 40.0115,
+            "lon": -75.1327
+        },
+        "l": "Solidity",
+        "nwo": "OlympusDAO/olympus-contracts",
+        "pr": 137,
+        "ma": "2021-12-22T17:09:56Z",
+        "oa": "2021-12-22T17:09:40Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "Svelte",
+        "nwo": "sveltejs/sites",
+        "pr": 242,
+        "ma": "2021-12-22T17:10:14Z",
+        "oa": "2021-12-22T17:10:10Z"
+    },
+    {
+        "uml": "Heidelberg",
+        "gm": {
+            "lat": 49.41222,
+            "lon": 8.71
+        },
+        "uol": "Heidelberg",
+        "gop": {
+            "lat": 49.41222,
+            "lon": 8.71
+        },
+        "l": "Python",
+        "nwo": "bioimage-io/spec-bioimage-io",
+        "pr": 360,
+        "ma": "2021-12-22T18:41:29Z",
+        "oa": "2021-12-22T17:13:01Z"
+    },
+    {
+        "uml": "Japan",
+        "gm": {
+            "lat": 36.3864928218528,
+            "lon": 138.592229549504
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "JavaScript",
+        "nwo": "Hiro527/LaF",
+        "pr": 22,
+        "ma": "2021-12-22T17:43:45Z",
+        "oa": "2021-12-22T17:13:30Z"
+    },
+    {
+        "uml": "Israel",
+        "gm": {
+            "lat": 31.8472608144505,
+            "lon": 34.8419985253627
+        },
+        "uol": "Israel",
+        "gop": {
+            "lat": 31.8472608144505,
+            "lon": 34.8419985253627
+        },
+        "l": "Go",
+        "nwo": "treeverse/lakeFS",
+        "pr": 2828,
+        "ma": "2021-12-22T18:02:32Z",
+        "oa": "2021-12-22T17:13:46Z"
+    },
+    {
+        "uml": "Chicago",
+        "gm": {
+            "lat": 41.8756,
+            "lon": -87.6244
+        },
+        "uol": "Chicago",
+        "gop": {
+            "lat": 41.8756,
+            "lon": -87.6244
+        },
+        "l": "PHP",
+        "nwo": "Automattic/vip-go-mu-plugins",
+        "pr": 2743,
+        "ma": "2021-12-22T19:21:31Z",
+        "oa": "2021-12-22T17:15:09Z"
+    },
+    {
+        "uml": "Sea Isle City",
+        "gm": {
+            "lat": 39.1548,
+            "lon": -74.6898
+        },
+        "uol": "Sea Isle City",
+        "gop": {
+            "lat": 39.1548,
+            "lon": -74.6898
+        },
+        "l": "Python",
+        "nwo": "opensearch-project/opensearch-build",
+        "pr": 1399,
+        "ma": "2021-12-22T17:33:08Z",
+        "oa": "2021-12-22T17:15:44Z"
+    },
+    {
+        "uml": "Zürich",
+        "gm": {
+            "lat": 47.427301,
+            "lon": 8.651159
+        },
+        "uol": "Zürich",
+        "gop": {
+            "lat": 47.427301,
+            "lon": 8.651159
+        },
+        "l": "Rust",
+        "nwo": "unicode-org/icu4x",
+        "pr": 1434,
+        "ma": "2021-12-22T18:00:03Z",
+        "oa": "2021-12-22T17:16:34Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "Cleveland",
+        "gop": {
+            "lat": 41.5052,
+            "lon": -81.6934
+        },
+        "l": "C#",
+        "nwo": "azist/azos",
+        "pr": 631,
+        "ma": "2021-12-22T17:26:15Z",
+        "oa": "2021-12-22T17:18:36Z"
+    },
+    {
+        "uml": "Bangalore",
+        "gm": {
+            "lat": 12.96991,
+            "lon": 77.59796
+        },
+        "uol": "Bangalore",
+        "gop": {
+            "lat": 12.96991,
+            "lon": 77.59796
+        },
+        "l": "Java",
+        "nwo": "airbytehq/airbyte",
+        "pr": 9055,
+        "ma": "2021-12-22T18:04:15Z",
+        "oa": "2021-12-22T17:19:46Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "JavaScript",
+        "nwo": "chess-centre/platform",
+        "pr": 451,
+        "ma": "2021-12-22T17:23:16Z",
+        "oa": "2021-12-22T17:20:59Z"
+    },
+    {
+        "uml": "Oregon City",
+        "gm": {
+            "lat": 45.3573,
+            "lon": -122.6068
+        },
+        "uol": "Oregon City",
+        "gop": {
+            "lat": 45.3573,
+            "lon": -122.6068
+        },
+        "l": "Go",
+        "nwo": "verrazzano/verrazzano",
+        "pr": 2214,
+        "ma": "2021-12-22T18:45:45Z",
+        "oa": "2021-12-22T17:22:43Z"
+    },
+    {
+        "uml": "Moscow",
+        "gm": {
+            "lat": 55.75583,
+            "lon": 37.61778
+        },
+        "uol": "Moscow",
+        "gop": {
+            "lat": 55.75583,
+            "lon": 37.61778
+        },
+        "l": "TypeScript",
+        "nwo": "near/near-explorer",
+        "pr": 837,
+        "ma": "2021-12-22T18:08:04Z",
+        "oa": "2021-12-22T17:23:27Z"
+    },
+    {
+        "uml": "Copenhagen",
+        "gm": {
+            "lat": 55.67611,
+            "lon": 12.56889
+        },
+        "uol": "Copenhagen",
+        "gop": {
+            "lat": 55.67611,
+            "lon": 12.56889
+        },
+        "l": "R",
+        "nwo": "MarkEdmondson1234/googleCloudRunner",
+        "pr": 162,
+        "ma": "2021-12-22T17:23:53Z",
+        "oa": "2021-12-22T17:23:42Z"
+    },
+    {
+        "uml": "United Kingdom",
+        "gm": {
+            "lat": 54.2379333607472,
+            "lon": -2.36966957036279
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "TypeScript",
+        "nwo": "PreMiD/Presences",
+        "pr": 5086,
+        "ma": "2021-12-22T18:01:12Z",
+        "oa": "2021-12-22T17:24:42Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "JavaScript",
+        "nwo": "chess-centre/platform",
+        "pr": 452,
+        "ma": "2021-12-22T17:26:05Z",
+        "oa": "2021-12-22T17:25:09Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "TypeScript",
+        "nwo": "google-gt13-actions/setup-gcloud",
+        "pr": 447,
+        "ma": "2021-12-22T18:11:20Z",
+        "oa": "2021-12-22T17:33:24Z"
+    },
+    {
+        "uml": "Paris",
+        "gm": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "uol": "Paris",
+        "gop": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "l": "JavaScript",
+        "nwo": "betagouv/eva",
+        "pr": 1111,
+        "ma": "2021-12-22T19:11:23Z",
+        "oa": "2021-12-22T17:33:44Z"
+    },
+    {
+        "uml": "Samara",
+        "gm": {
+            "lat": 53.18333,
+            "lon": 50.11667
+        },
+        "uol": "Samara",
+        "gop": {
+            "lat": 53.18333,
+            "lon": 50.11667
+        },
+        "l": "TypeScript",
+        "nwo": "exclusiveLogin/birthhelper",
+        "pr": 99,
+        "ma": "2021-12-22T17:34:59Z",
+        "oa": "2021-12-22T17:34:54Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "Go",
+        "nwo": "influxdata/telegraf",
+        "pr": 10332,
+        "ma": "2021-12-22T19:30:43Z",
+        "oa": "2021-12-22T17:36:56Z"
+    },
+    {
+        "uml": "Netherlands",
+        "gm": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "JavaScript",
+        "nwo": "compiler-explorer/compiler-explorer",
+        "pr": 3209,
+        "ma": "2021-12-22T17:44:10Z",
+        "oa": "2021-12-22T17:37:37Z"
+    },
+    {
+        "uml": "Sheffield",
+        "gm": {
+            "lat": 53.380662599999994,
+            "lon": -1.4702278
+        },
+        "uol": "Sheffield",
+        "gop": {
+            "lat": 53.380662599999994,
+            "lon": -1.4702278
+        },
+        "l": "C#",
+        "nwo": "dfe-analytical-services/explore-education-statistics",
+        "pr": 3080,
+        "ma": "2021-12-22T18:10:36Z",
+        "oa": "2021-12-22T17:37:50Z"
+    },
+    {
+        "uml": "Sea Isle City",
+        "gm": {
+            "lat": 39.1548,
+            "lon": -74.6898
+        },
+        "uol": "Sea Isle City",
+        "gop": {
+            "lat": 39.1548,
+            "lon": -74.6898
+        },
+        "l": "Python",
+        "nwo": "opensearch-project/opensearch-build",
+        "pr": 1400,
+        "ma": "2021-12-22T17:57:03Z",
+        "oa": "2021-12-22T17:39:32Z"
+    },
+    {
+        "uml": "Slovenia",
+        "gm": {
+            "lat": 46.1694584888026,
+            "lon": 14.6940763981247
+        },
+        "uol": "Slovenia",
+        "gop": {
+            "lat": 46.1694584888026,
+            "lon": 14.6940763981247
+        },
+        "l": "Java",
+        "nwo": "MCreator/MCreator",
+        "pr": 2172,
+        "ma": "2021-12-22T20:05:54Z",
+        "oa": "2021-12-22T17:39:34Z"
+    },
+    {
+        "uml": "Lausanne",
+        "gm": {
+            "lat": 46.53333,
+            "lon": 6.63333
+        },
+        "uol": "Lausanne",
+        "gop": {
+            "lat": 46.53333,
+            "lon": 6.63333
+        },
+        "l": "Scala",
+        "nwo": "scalacenter/scaladex",
+        "pr": 771,
+        "ma": "2021-12-22T17:47:04Z",
+        "oa": "2021-12-22T17:40:25Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "Java",
+        "nwo": "inception-project/inception",
+        "pr": 2784,
+        "ma": "2021-12-22T18:08:33Z",
+        "oa": "2021-12-22T17:40:32Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "JavaScript",
+        "nwo": "RecordReplay/devtools",
+        "pr": 4893,
+        "ma": "2021-12-22T17:44:16Z",
+        "oa": "2021-12-22T17:44:01Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "TypeScript",
+        "nwo": "cloud-annotations/docusaurus-plugin-openapi",
+        "pr": 119,
+        "ma": "2021-12-22T19:43:43Z",
+        "oa": "2021-12-22T17:50:08Z"
+    },
+    {
+        "uml": "Slovenia",
+        "gm": {
+            "lat": 46.1694584888026,
+            "lon": 14.6940763981247
+        },
+        "uol": "Slovenia",
+        "gop": {
+            "lat": 46.1694584888026,
+            "lon": 14.6940763981247
+        },
+        "l": "TypeScript",
+        "nwo": "oasisprotocol/oasis-wallet-web",
+        "pr": 545,
+        "ma": "2021-12-22T19:10:43Z",
+        "oa": "2021-12-22T17:50:12Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "SCSS",
+        "nwo": "ubuntu/yaru",
+        "pr": 3276,
+        "ma": "2021-12-22T18:25:25Z",
+        "oa": "2021-12-22T17:50:15Z"
+    },
+    {
+        "uml": "Chicago",
+        "gm": {
+            "lat": 41.8756,
+            "lon": -87.6244
+        },
+        "uol": "Chicago",
+        "gop": {
+            "lat": 41.8756,
+            "lon": -87.6244
+        },
+        "l": "C++",
+        "nwo": "sengelha/streaming-percentiles",
+        "pr": 53,
+        "ma": "2021-12-22T17:50:31Z",
+        "oa": "2021-12-22T17:50:27Z"
+    },
+    {
+        "uml": "Bonn",
+        "gm": {
+            "lat": 50.73616,
+            "lon": 7.1002
+        },
+        "uol": "Bonn",
+        "gop": {
+            "lat": 50.73616,
+            "lon": 7.1002
+        },
+        "l": "Python",
+        "nwo": "OSGeo/grass-addons",
+        "pr": 648,
+        "ma": "2021-12-22T18:26:24Z",
+        "oa": "2021-12-22T17:52:01Z"
+    },
+    {
+        "uml": "Brazil",
+        "gm": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "uol": "Brazil",
+        "gop": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "l": "Mustache",
+        "nwo": "FairwindsOps/charts",
+        "pr": 649,
+        "ma": "2021-12-22T18:09:14Z",
+        "oa": "2021-12-22T17:52:01Z"
+    },
+    {
+        "uml": "Seattle",
+        "gm": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "uol": "Seattle",
+        "gop": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "l": "Python",
+        "nwo": "uw-it-aca/myuw",
+        "pr": 2698,
+        "ma": "2021-12-22T18:47:51Z",
+        "oa": "2021-12-22T17:54:11Z"
+    },
+    {
+        "uml": "Palo Alto",
+        "gm": {
+            "lat": 37.4422,
+            "lon": -122.1634
+        },
+        "uol": "Palo Alto",
+        "gop": {
+            "lat": 37.4422,
+            "lon": -122.1634
+        },
+        "l": "JavaScript",
+        "nwo": "RecordReplay/devtools",
+        "pr": 4894,
+        "ma": "2021-12-22T17:55:24Z",
+        "oa": "2021-12-22T17:54:21Z"
+    },
+    {
+        "uml": "Brazil",
+        "gm": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "uol": "Brazil",
+        "gop": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "l": "Java",
+        "nwo": "jboss-container-images/rhpam-7-openshift-image",
+        "pr": 591,
+        "ma": "2021-12-22T18:16:16Z",
+        "oa": "2021-12-22T17:56:24Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "Go",
+        "nwo": "open-telemetry/opentelemetry-collector",
+        "pr": 4610,
+        "ma": "2021-12-22T18:03:02Z",
+        "oa": "2021-12-22T17:57:26Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "C++",
+        "nwo": "googleapis/google-cloud-cpp",
+        "pr": 7776,
+        "ma": "2021-12-22T18:28:22Z",
+        "oa": "2021-12-22T17:58:49Z"
+    },
+    {
+        "uml": "Minneapolis",
+        "gm": {
+            "lat": 44.9773,
+            "lon": -93.2655
+        },
+        "uol": "Minneapolis",
+        "gop": {
+            "lat": 44.9773,
+            "lon": -93.2655
+        },
+        "l": "Elm",
+        "nwo": "go-vela/ui",
+        "pr": 492,
+        "ma": "2021-12-22T19:37:08Z",
+        "oa": "2021-12-22T17:59:57Z"
+    },
+    {
+        "uml": "Havant",
+        "gm": {
+            "lat": 50.85,
+            "lon": -0.98
+        },
+        "uol": "Havant",
+        "gop": {
+            "lat": 50.85,
+            "lon": -0.98
+        },
+        "l": "JavaScript",
+        "nwo": "ONSdigital/florence",
+        "pr": 654,
+        "ma": "2021-12-22T18:18:15Z",
+        "oa": "2021-12-22T18:00:25Z"
+    },
+    {
+        "uml": "Brazil",
+        "gm": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "uol": "Brazil",
+        "gop": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "l": "Java",
+        "nwo": "jboss-container-images/rhdm-7-openshift-image",
+        "pr": 467,
+        "ma": "2021-12-22T18:16:22Z",
+        "oa": "2021-12-22T18:01:22Z"
+    },
+    {
+        "uml": "Italy",
+        "gm": {
+            "lat": 42.5041539170675,
+            "lon": 12.6463610364431
+        },
+        "uol": "Italy",
+        "gop": {
+            "lat": 42.5041539170675,
+            "lon": 12.6463610364431
+        },
+        "l": "JavaScript",
+        "nwo": "nearform/optic-release-automation-action",
+        "pr": 47,
+        "ma": "2021-12-22T18:10:39Z",
+        "oa": "2021-12-22T18:01:39Z"
+    },
+    {
+        "uml": "Redmond",
+        "gm": {
+            "lat": 47.6694,
+            "lon": -122.1239
+        },
+        "uol": "Redmond",
+        "gop": {
+            "lat": 47.6694,
+            "lon": -122.1239
+        },
+        "l": "Python",
+        "nwo": "MicrosoftDocs/visualstudio-docs",
+        "pr": 7459,
+        "ma": "2021-12-22T18:04:19Z",
+        "oa": "2021-12-22T18:03:57Z"
+    },
+    {
+        "uml": "Connecticut",
+        "gm": {
+            "lat": 41.6261419326,
+            "lon": -72.7262428031069
+        },
+        "uol": "Connecticut",
+        "gop": {
+            "lat": 41.6261419326,
+            "lon": -72.7262428031069
+        },
+        "l": "TypeScript",
+        "nwo": "hirosystems/stacks-blockchain-api",
+        "pr": 942,
+        "ma": "2021-12-22T18:22:16Z",
+        "oa": "2021-12-22T18:04:14Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "C++",
+        "nwo": "googleapis/google-cloud-cpp",
+        "pr": 7777,
+        "ma": "2021-12-22T18:48:40Z",
+        "oa": "2021-12-22T18:05:01Z"
+    },
+    {
+        "uml": "Bangalore",
+        "gm": {
+            "lat": 12.96991,
+            "lon": 77.59796
+        },
+        "uol": "Bangalore",
+        "gop": {
+            "lat": 12.96991,
+            "lon": 77.59796
+        },
+        "l": "Shell",
+        "nwo": "NetAppDocs/occm",
+        "pr": 790,
+        "ma": "2021-12-22T18:22:19Z",
+        "oa": "2021-12-22T18:05:01Z"
+    },
+    {
+        "uml": "Brazil",
+        "gm": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "uol": "Brazil",
+        "gop": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "l": "Shell",
+        "nwo": "jboss-container-images/jboss-kie-modules",
+        "pr": 512,
+        "ma": "2021-12-22T18:41:27Z",
+        "oa": "2021-12-22T18:05:35Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "PHP",
+        "nwo": "Automattic/vip-go-mu-plugins",
+        "pr": 2744,
+        "ma": "2021-12-22T19:50:35Z",
+        "oa": "2021-12-22T18:05:37Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "Groovy",
+        "nwo": "pontus-vision/pontus-odb-graph",
+        "pr": 91,
+        "ma": "2021-12-22T18:13:51Z",
+        "oa": "2021-12-22T18:06:00Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "PowerShell",
+        "nwo": "MicrosoftDocs/terminal",
+        "pr": 468,
+        "ma": "2021-12-22T19:26:06Z",
+        "oa": "2021-12-22T18:11:04Z"
+    },
+    {
+        "uml": "California City",
+        "gm": {
+            "lat": 35.1258,
+            "lon": -117.9859
+        },
+        "uol": "California City",
+        "gop": {
+            "lat": 35.1258,
+            "lon": -117.9859
+        },
+        "l": "Go",
+        "nwo": "k3s-io/k3s",
+        "pr": 4823,
+        "ma": "2021-12-22T20:16:43Z",
+        "oa": "2021-12-22T18:12:21Z"
+    },
+    {
+        "uml": "Seattle",
+        "gm": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "uol": "Seattle",
+        "gop": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "l": "Java",
+        "nwo": "awslabs/amazon-kinesis-client",
+        "pr": 884,
+        "ma": "2021-12-22T18:47:58Z",
+        "oa": "2021-12-22T18:12:22Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "TypeScript",
+        "nwo": "zwave-js/node-zwave-js",
+        "pr": 3947,
+        "ma": "2021-12-22T18:28:25Z",
+        "oa": "2021-12-22T18:14:25Z"
+    },
+    {
+        "uml": "Los Angeles",
+        "gm": {
+            "lat": 34.0544,
+            "lon": -118.2439
+        },
+        "uol": "Los Angeles",
+        "gop": {
+            "lat": 34.0544,
+            "lon": -118.2439
+        },
+        "l": "Shell",
+        "nwo": "JeffDeCola/my-cheat-sheets",
+        "pr": 922,
+        "ma": "2021-12-22T18:16:41Z",
+        "oa": "2021-12-22T18:16:37Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "Java",
+        "nwo": "wcmc-its/ReCiter",
+        "pr": 490,
+        "ma": "2021-12-22T18:18:40Z",
+        "oa": "2021-12-22T18:18:01Z"
+    },
+    {
+        "uml": "Brazil",
+        "gm": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "uol": "Brazil",
+        "gop": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "l": "Java",
+        "nwo": "jboss-container-images/rhpam-7-openshift-image",
+        "pr": 592,
+        "ma": "2021-12-22T18:39:06Z",
+        "oa": "2021-12-22T18:18:47Z"
+    },
+    {
+        "uml": "Stockholm",
+        "gm": {
+            "lat": 59.32944,
+            "lon": 18.06861
+        },
+        "uol": "Stockholm",
+        "gop": {
+            "lat": 59.32944,
+            "lon": 18.06861
+        },
+        "l": "Python",
+        "nwo": "meadsteve/lagom",
+        "pr": 193,
+        "ma": "2021-12-22T18:39:35Z",
+        "oa": "2021-12-22T18:19:21Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "OCaml",
+        "nwo": "darklang/dark",
+        "pr": 3340,
+        "ma": "2021-12-22T18:20:08Z",
+        "oa": "2021-12-22T18:20:03Z"
+    },
+    {
+        "uml": "Brazil",
+        "gm": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "uol": "Brazil",
+        "gop": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "l": "Java",
+        "nwo": "jboss-container-images/rhpam-7-openshift-image",
+        "pr": 593,
+        "ma": "2021-12-22T18:38:52Z",
+        "oa": "2021-12-22T18:21:44Z"
+    },
+    {
+        "uml": "Sweden",
+        "gm": {
+            "lat": 64.9648751621697,
+            "lon": 17.6754094331351
+        },
+        "uol": "Sweden",
+        "gop": {
+            "lat": 64.9648751621697,
+            "lon": 17.6754094331351
+        },
+        "l": "JavaScript",
+        "nwo": "TarkovTracker/tarkovdata",
+        "pr": 186,
+        "ma": "2021-12-22T19:51:20Z",
+        "oa": "2021-12-22T18:22:04Z"
+    },
+    {
+        "uml": "Brazil",
+        "gm": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "uol": "Brazil",
+        "gop": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "l": "Java",
+        "nwo": "jboss-container-images/rhdm-7-openshift-image",
+        "pr": 468,
+        "ma": "2021-12-22T18:39:02Z",
+        "oa": "2021-12-22T18:23:41Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "Python",
+        "nwo": "mozilla-releng/shipit",
+        "pr": 976,
+        "ma": "2021-12-22T18:45:54Z",
+        "oa": "2021-12-22T18:24:42Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "Dart",
+        "nwo": "ueman/feedback",
+        "pr": 144,
+        "ma": "2021-12-22T19:13:14Z",
+        "oa": "2021-12-22T18:24:59Z"
+    },
+    {
+        "uml": "Portugal",
+        "gm": {
+            "lat": 39.6009946583093,
+            "lon": -8.56273059638958
+        },
+        "uol": "Portugal",
+        "gop": {
+            "lat": 39.6009946583093,
+            "lon": -8.56273059638958
+        },
+        "l": "TypeScript",
+        "nwo": "impactMarket/api",
+        "pr": 170,
+        "ma": "2021-12-22T19:44:15Z",
+        "oa": "2021-12-22T18:25:34Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "TypeScript",
+        "nwo": "kubernetes-sigs/kui",
+        "pr": 8329,
+        "ma": "2021-12-22T18:42:05Z",
+        "oa": "2021-12-22T18:25:42Z"
+    },
+    {
+        "uml": "Seattle",
+        "gm": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "uol": "Seattle",
+        "gop": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "l": "C++",
+        "nwo": "google/iree",
+        "pr": 7941,
+        "ma": "2021-12-22T18:30:14Z",
+        "oa": "2021-12-22T18:27:33Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "Dart",
+        "nwo": "ueman/feedback",
+        "pr": 145,
+        "ma": "2021-12-22T18:44:40Z",
+        "oa": "2021-12-22T18:28:26Z"
+    },
+    {
+        "uml": "Brazil",
+        "gm": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "uol": "Brazil",
+        "gop": {
+            "lat": -9.58890301712257,
+            "lon": -51.6197890205486
+        },
+        "l": "Java",
+        "nwo": "jboss-container-images/rhdm-7-openshift-image",
+        "pr": 469,
+        "ma": "2021-12-22T18:38:42Z",
+        "oa": "2021-12-22T18:28:38Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "C++",
+        "nwo": "googleapis/google-cloud-cpp",
+        "pr": 7778,
+        "ma": "2021-12-22T20:23:37Z",
+        "oa": "2021-12-22T18:29:45Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "C++",
+        "nwo": "googleapis/google-cloud-cpp",
+        "pr": 7779,
+        "ma": "2021-12-22T20:23:53Z",
+        "oa": "2021-12-22T18:30:31Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "C++",
+        "nwo": "googleapis/google-cloud-cpp",
+        "pr": 7780,
+        "ma": "2021-12-22T20:24:05Z",
+        "oa": "2021-12-22T18:32:21Z"
+    },
+    {
+        "uml": "Samara",
+        "gm": {
+            "lat": 53.18333,
+            "lon": 50.11667
+        },
+        "uol": "Samara",
+        "gop": {
+            "lat": 53.18333,
+            "lon": 50.11667
+        },
+        "l": "TypeScript",
+        "nwo": "exclusiveLogin/birthhelper",
+        "pr": 101,
+        "ma": "2021-12-22T18:33:03Z",
+        "oa": "2021-12-22T18:32:54Z"
+    },
+    {
+        "uml": "California City",
+        "gm": {
+            "lat": 35.1258,
+            "lon": -117.9859
+        },
+        "uol": "California City",
+        "gop": {
+            "lat": 35.1258,
+            "lon": -117.9859
+        },
+        "l": "Java",
+        "nwo": "apache/samza",
+        "pr": 1571,
+        "ma": "2021-12-22T19:39:18Z",
+        "oa": "2021-12-22T18:36:57Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "TypeScript",
+        "nwo": "kubernetes-sigs/kui",
+        "pr": 8330,
+        "ma": "2021-12-22T19:05:35Z",
+        "oa": "2021-12-22T18:39:30Z"
+    },
+    {
+        "uml": "France",
+        "gm": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "uol": "France",
+        "gop": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "l": "HTML",
+        "nwo": "betagouv/beta.gouv.fr",
+        "pr": 8222,
+        "ma": "2021-12-22T20:05:23Z",
+        "oa": "2021-12-22T18:41:08Z"
+    },
+    {
+        "uml": "Samara",
+        "gm": {
+            "lat": 53.18333,
+            "lon": 50.11667
+        },
+        "uol": "Samara",
+        "gop": {
+            "lat": 53.18333,
+            "lon": 50.11667
+        },
+        "l": "TypeScript",
+        "nwo": "exclusiveLogin/birthhelper",
+        "pr": 102,
+        "ma": "2021-12-22T18:42:56Z",
+        "oa": "2021-12-22T18:42:51Z"
+    },
+    {
+        "uml": "Washington",
+        "gm": {
+            "lat": 38.895,
+            "lon": -77.0366
+        },
+        "uol": "Washington",
+        "gop": {
+            "lat": 38.895,
+            "lon": -77.0366
+        },
+        "l": "Go",
+        "nwo": "anchore/grype",
+        "pr": 566,
+        "ma": "2021-12-22T19:52:24Z",
+        "oa": "2021-12-22T18:43:48Z"
+    },
+    {
+        "uml": "Japan",
+        "gm": {
+            "lat": 36.3864928218528,
+            "lon": 138.592229549504
+        },
+        "uol": "Japan",
+        "gop": {
+            "lat": 36.3864928218528,
+            "lon": 138.592229549504
+        },
+        "l": "Java",
+        "nwo": "tesshucom/jpsonic",
+        "pr": 1305,
+        "ma": "2021-12-22T18:44:29Z",
+        "oa": "2021-12-22T18:43:54Z"
+    },
+    {
+        "uml": "France",
+        "gm": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "uol": "France",
+        "gop": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "l": "Vue",
+        "nwo": "cgwire/kitsu",
+        "pr": 792,
+        "ma": "2021-12-22T18:44:28Z",
+        "oa": "2021-12-22T18:44:00Z"
+    },
+    {
+        "uml": "Moscow",
+        "gm": {
+            "lat": 55.75583,
+            "lon": 37.61778
+        },
+        "uol": "Moscow",
+        "gop": {
+            "lat": 55.75583,
+            "lon": 37.61778
+        },
+        "l": "JavaScript",
+        "nwo": "Areso/1255-burgomaster",
+        "pr": 628,
+        "ma": "2021-12-22T18:45:13Z",
+        "oa": "2021-12-22T18:45:01Z"
+    },
+    {
+        "uml": "Netherlands",
+        "gm": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "uol": "Netherlands",
+        "gop": {
+            "lat": 51.9724664894952,
+            "lon": 5.61349061168593
+        },
+        "l": "Lua",
+        "nwo": "FAForever/fa",
+        "pr": 3628,
+        "ma": "2021-12-22T18:51:56Z",
+        "oa": "2021-12-22T18:45:31Z"
+    },
+    {
+        "uml": "Tempe",
+        "gm": {
+            "lat": 33.4144,
+            "lon": -111.9094
+        },
+        "uol": "Tempe",
+        "gop": {
+            "lat": 33.4144,
+            "lon": -111.9094
+        },
+        "l": "TypeScript",
+        "nwo": "influxdata/giraffe",
+        "pr": 718,
+        "ma": "2021-12-22T19:12:37Z",
+        "oa": "2021-12-22T18:45:40Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "Rust",
+        "nwo": "metrics-rs/metrics",
+        "pr": 257,
+        "ma": "2021-12-22T19:42:18Z",
+        "oa": "2021-12-22T18:45:41Z"
+    },
+    {
+        "uml": "Santa Rosa",
+        "gm": {
+            "lat": -36.62028,
+            "lon": -64.29056
+        },
+        "uol": "Santa Rosa",
+        "gop": {
+            "lat": -36.62028,
+            "lon": -64.29056
+        },
+        "l": "Rust",
+        "nwo": "MaterializeInc/materialize",
+        "pr": 9727,
+        "ma": "2021-12-22T20:09:15Z",
+        "oa": "2021-12-22T18:45:46Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "Go",
+        "nwo": "open-telemetry/opentelemetry-collector-contrib",
+        "pr": 6937,
+        "ma": "2021-12-22T19:54:40Z",
+        "oa": "2021-12-22T18:46:59Z"
+    },
+    {
+        "uml": "Paris",
+        "gm": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "uol": "Paris",
+        "gop": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "l": "TypeScript",
+        "nwo": "facebook/docusaurus",
+        "pr": 6168,
+        "ma": "2021-12-22T19:05:15Z",
+        "oa": "2021-12-22T18:48:39Z"
+    },
+    {
+        "uml": "Japan",
+        "gm": {
+            "lat": 36.3864928218528,
+            "lon": 138.592229549504
+        },
+        "uol": "Japan",
+        "gop": {
+            "lat": 36.3864928218528,
+            "lon": 138.592229549504
+        },
+        "l": "Java",
+        "nwo": "tesshucom/jpsonic",
+        "pr": 1306,
+        "ma": "2021-12-22T18:49:18Z",
+        "oa": "2021-12-22T18:49:01Z"
+    },
+    {
+        "uml": "Samara",
+        "gm": {
+            "lat": 53.18333,
+            "lon": 50.11667
+        },
+        "uol": "Samara",
+        "gop": {
+            "lat": 53.18333,
+            "lon": 50.11667
+        },
+        "l": "TypeScript",
+        "nwo": "exclusiveLogin/birthhelper",
+        "pr": 103,
+        "ma": "2021-12-22T18:49:36Z",
+        "oa": "2021-12-22T18:49:29Z"
+    },
+    {
+        "uml": "Chennai",
+        "gm": {
+            "lat": 13.09,
+            "lon": 80.27
+        },
+        "uol": "Chennai",
+        "gop": {
+            "lat": 13.09,
+            "lon": 80.27
+        },
+        "l": "Go",
+        "nwo": "konveyor/move2kube",
+        "pr": 697,
+        "ma": "2021-12-22T19:05:35Z",
+        "oa": "2021-12-22T18:50:32Z"
+    },
+    {
+        "uml": "Paris",
+        "gm": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "uol": "Paris",
+        "gop": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "l": "Rust",
+        "nwo": "rusqlite/rusqlite",
+        "pr": 1064,
+        "ma": "2021-12-22T19:04:27Z",
+        "oa": "2021-12-22T18:50:34Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "France",
+        "gop": {
+            "lat": 47.8249046208979,
+            "lon": 2.61878695312962
+        },
+        "l": "C",
+        "nwo": "chrismaltby/gb-studio",
+        "pr": 928,
+        "ma": "2021-12-22T20:02:37Z",
+        "oa": "2021-12-22T18:51:52Z"
+    },
+    {
+        "uml": "Lisbon",
+        "gm": {
+            "lat": 38.7263,
+            "lon": -9.1484
+        },
+        "uol": "Lisbon",
+        "gop": {
+            "lat": 38.7263,
+            "lon": -9.1484
+        },
+        "l": "C",
+        "nwo": "IObundle/iob-uart",
+        "pr": 80,
+        "ma": "2021-12-22T18:54:19Z",
+        "oa": "2021-12-22T18:54:03Z"
+    },
+    {
+        "uml": "Bonn",
+        "gm": {
+            "lat": 50.73616,
+            "lon": 7.1002
+        },
+        "uol": "Bonn",
+        "gop": {
+            "lat": 50.73616,
+            "lon": 7.1002
+        },
+        "l": "Python",
+        "nwo": "OSGeo/grass-addons",
+        "pr": 650,
+        "ma": "2021-12-22T20:08:10Z",
+        "oa": "2021-12-22T18:55:00Z"
+    },
+    {
+        "uml": "England",
+        "gm": {
+            "lat": 52.38145972,
+            "lon": -0.676181762467007
+        },
+        "uol": "England",
+        "gop": {
+            "lat": 52.38145972,
+            "lon": -0.676181762467007
+        },
+        "l": "Java",
+        "nwo": "FabricMC/fabric",
+        "pr": 1926,
+        "ma": "2021-12-22T18:55:37Z",
+        "oa": "2021-12-22T18:55:29Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "C++",
+        "nwo": "chipsalliance/verible",
+        "pr": 1129,
+        "ma": "2021-12-22T20:02:13Z",
+        "oa": "2021-12-22T18:55:56Z"
+    },
+    {
+        "uml": "Switzerland",
+        "gm": {
+            "lat": 46.8024955829499,
+            "lon": 8.23439191387853
+        },
+        "uol": "Switzerland",
+        "gop": {
+            "lat": 46.8024955829499,
+            "lon": 8.23439191387853
+        },
+        "l": "C#",
+        "nwo": "MoneyFox/MoneyFox",
+        "pr": 2160,
+        "ma": "2021-12-22T19:17:16Z",
+        "oa": "2021-12-22T18:56:39Z"
+    },
+    {
+        "uml": "London",
+        "gm": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "uol": "London",
+        "gop": {
+            "lat": 51.507321899999994,
+            "lon": -0.12764739999999997
+        },
+        "l": "HTML",
+        "nwo": "programminghistorian/jekyll",
+        "pr": 2454,
+        "ma": "2021-12-22T19:57:02Z",
+        "oa": "2021-12-22T19:01:14Z"
+    },
+    {
+        "uml": "Maine",
+        "gm": {
+            "lat": 45.3982848479,
+            "lon": -69.2365510393463
+        },
+        "uol": "Maine",
+        "gop": {
+            "lat": 45.3982848479,
+            "lon": -69.2365510393463
+        },
+        "l": "Java",
+        "nwo": "dhis2/dhis2-core",
+        "pr": 9525,
+        "ma": "2021-12-22T19:21:16Z",
+        "oa": "2021-12-22T19:03:50Z"
+    },
+    {
+        "uml": "Canada",
+        "gm": {
+            "lat": 55.5859012851966,
+            "lon": -105.750595856519
+        },
+        "uol": "Canada",
+        "gop": {
+            "lat": 55.5859012851966,
+            "lon": -105.750595856519
+        },
+        "l": "Dart",
+        "nwo": "CometTools/LunaSea",
+        "pr": 525,
+        "ma": "2021-12-22T19:07:28Z",
+        "oa": "2021-12-22T19:06:34Z"
+    },
+    {
+        "uml": "Moscow",
+        "gm": {
+            "lat": 55.75583,
+            "lon": 37.61778
+        },
+        "uol": "Moscow",
+        "gop": {
+            "lat": 55.75583,
+            "lon": 37.61778
+        },
+        "l": "JavaScript",
+        "nwo": "Areso/1255-burgomaster",
+        "pr": 629,
+        "ma": "2021-12-22T19:06:57Z",
+        "oa": "2021-12-22T19:06:46Z"
+    },
+    {
+        "uml": "Canada",
+        "gm": {
+            "lat": 55.5859012851966,
+            "lon": -105.750595856519
+        },
+        "uol": "Canada",
+        "gop": {
+            "lat": 55.5859012851966,
+            "lon": -105.750595856519
+        },
+        "l": "C++",
+        "nwo": "SpiderLabs/ModSecurity",
+        "pr": 2660,
+        "ma": "2021-12-22T19:23:33Z",
+        "oa": "2021-12-22T19:06:52Z"
+    },
+    {
+        "uml": "Chennai",
+        "gm": {
+            "lat": 13.09,
+            "lon": 80.27
+        },
+        "uol": "Chennai",
+        "gop": {
+            "lat": 13.09,
+            "lon": 80.27
+        },
+        "l": "Go",
+        "nwo": "konveyor/move2kube",
+        "pr": 698,
+        "ma": "2021-12-22T19:25:06Z",
+        "oa": "2021-12-22T19:08:20Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "PHP",
+        "nwo": "JudicialCouncilOfCalifornia/trialcourt",
+        "pr": 2411,
+        "ma": "2021-12-22T19:11:53Z",
+        "oa": "2021-12-22T19:10:12Z"
+    },
+    {
+        "uml": "Moscow",
+        "gm": {
+            "lat": 55.75583,
+            "lon": 37.61778
+        },
+        "uol": "Moscow",
+        "gop": {
+            "lat": 55.75583,
+            "lon": 37.61778
+        },
+        "l": "JavaScript",
+        "nwo": "Areso/1255-burgomaster",
+        "pr": 630,
+        "ma": "2021-12-22T19:11:52Z",
+        "oa": "2021-12-22T19:11:43Z"
+    },
+    {
+        "uml": "Madrid",
+        "gm": {
+            "lat": 40.41889,
+            "lon": -3.69194
+        },
+        "uol": "Madrid",
+        "gop": {
+            "lat": 40.41889,
+            "lon": -3.69194
+        },
+        "l": "TypeScript",
+        "nwo": "abritopach/capacitor-heatmap",
+        "pr": 38,
+        "ma": "2021-12-22T19:20:18Z",
+        "oa": "2021-12-22T19:19:30Z"
+    },
+    {
+        "uml": "Madrid",
+        "gm": {
+            "lat": 40.41889,
+            "lon": -3.69194
+        },
+        "uol": "Madrid",
+        "gop": {
+            "lat": 40.41889,
+            "lon": -3.69194
+        },
+        "l": "TypeScript",
+        "nwo": "abritopach/capacitor-heatmap",
+        "pr": 39,
+        "ma": "2021-12-22T19:21:14Z",
+        "oa": "2021-12-22T19:20:31Z"
+    },
+    {
+        "uml": "Maine",
+        "gm": {
+            "lat": 45.3982848479,
+            "lon": -69.2365510393463
+        },
+        "uol": "Maine",
+        "gop": {
+            "lat": 45.3982848479,
+            "lon": -69.2365510393463
+        },
+        "l": "Java",
+        "nwo": "dhis2/dhis2-core",
+        "pr": 9527,
+        "ma": "2021-12-22T19:46:45Z",
+        "oa": "2021-12-22T19:23:29Z"
+    },
+    {
+        "uml": "Maine",
+        "gm": {
+            "lat": 45.3982848479,
+            "lon": -69.2365510393463
+        },
+        "uol": "Maine",
+        "gop": {
+            "lat": 45.3982848479,
+            "lon": -69.2365510393463
+        },
+        "l": "Java",
+        "nwo": "dhis2/dhis2-core",
+        "pr": 9528,
+        "ma": "2021-12-22T19:46:53Z",
+        "oa": "2021-12-22T19:25:06Z"
+    },
+    {
+        "uml": "Maine",
+        "gm": {
+            "lat": 45.3982848479,
+            "lon": -69.2365510393463
+        },
+        "uol": "Maine",
+        "gop": {
+            "lat": 45.3982848479,
+            "lon": -69.2365510393463
+        },
+        "l": "Java",
+        "nwo": "dhis2/dhis2-core",
+        "pr": 9529,
+        "ma": "2021-12-22T19:47:01Z",
+        "oa": "2021-12-22T19:27:53Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "Jinja",
+        "nwo": "osism/ansible-collection-services",
+        "pr": 498,
+        "ma": "2021-12-22T19:30:45Z",
+        "oa": "2021-12-22T19:29:03Z"
+    },
+    {
+        "uml": "Russia",
+        "gm": {
+            "lat": 61.9945734073292,
+            "lon": 96.6697054604756
+        },
+        "uol": "Russia",
+        "gop": {
+            "lat": 61.9945734073292,
+            "lon": 96.6697054604756
+        },
+        "l": "C",
+        "nwo": "emu-russia/breaks",
+        "pr": 290,
+        "ma": "2021-12-22T19:29:07Z",
+        "oa": "2021-12-22T19:29:03Z"
+    },
+    {
+        "uml": "Chennai",
+        "gm": {
+            "lat": 13.09,
+            "lon": 80.27
+        },
+        "uol": "Chennai",
+        "gop": {
+            "lat": 13.09,
+            "lon": 80.27
+        },
+        "l": "Go",
+        "nwo": "konveyor/move2kube",
+        "pr": 699,
+        "ma": "2021-12-22T19:38:04Z",
+        "oa": "2021-12-22T19:31:03Z"
+    },
+    {
+        "uml": "Switzerland",
+        "gm": {
+            "lat": 46.8024955829499,
+            "lon": 8.23439191387853
+        },
+        "uol": "Switzerland",
+        "gop": {
+            "lat": 46.8024955829499,
+            "lon": 8.23439191387853
+        },
+        "l": "C#",
+        "nwo": "adamralph/minver",
+        "pr": 646,
+        "ma": "2021-12-22T20:01:57Z",
+        "oa": "2021-12-22T19:37:35Z"
+    },
+    {
+        "uml": "Denmark",
+        "gm": {
+            "lat": 55.9633978748347,
+            "lon": 10.0462968058278
+        },
+        "uol": "Denmark",
+        "gop": {
+            "lat": 55.9633978748347,
+            "lon": 10.0462968058278
+        },
+        "l": "Python",
+        "nwo": "norse/norse",
+        "pr": 283,
+        "ma": "2021-12-22T19:54:00Z",
+        "oa": "2021-12-22T19:40:00Z"
+    },
+    {
+        "uml": "San Francisco",
+        "gm": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "uol": "San Francisco",
+        "gop": {
+            "lat": 37.7648,
+            "lon": -122.463
+        },
+        "l": "JavaScript",
+        "nwo": "adobe/node-httptransfer",
+        "pr": 98,
+        "ma": "2021-12-22T19:49:01Z",
+        "oa": "2021-12-22T19:43:55Z"
+    },
+    {
+        "uml": "Germany",
+        "gm": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "uol": "Germany",
+        "gop": {
+            "lat": 51.1334813439932,
+            "lon": 10.0183432948567
+        },
+        "l": "Jinja",
+        "nwo": "osism/ansible-collection-services",
+        "pr": 499,
+        "ma": "2021-12-22T19:46:00Z",
+        "oa": "2021-12-22T19:45:11Z"
+    },
+    {
+        "uml": "New York City",
+        "gm": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "uol": "New York City",
+        "gop": {
+            "lat": 40.7306,
+            "lon": -73.9866
+        },
+        "l": "TypeScript",
+        "nwo": "kubernetes-sigs/kui",
+        "pr": 8332,
+        "ma": "2021-12-22T20:11:11Z",
+        "oa": "2021-12-22T19:45:18Z"
+    },
+    {
+        "uml": "Mountain View",
+        "gm": {
+            "lat": 37.3856,
+            "lon": -122.082
+        },
+        "uol": "Mountain View",
+        "gop": {
+            "lat": 37.3856,
+            "lon": -122.082
+        },
+        "l": "TypeScript",
+        "nwo": "mattsoulanille/NovaJS",
+        "pr": 342,
+        "ma": "2021-12-22T19:52:07Z",
+        "oa": "2021-12-22T19:47:02Z"
+    },
+    {
+        "uml": "Moscow",
+        "gm": {
+            "lat": 55.75583,
+            "lon": 37.61778
+        },
+        "uol": "Moscow",
+        "gop": {
+            "lat": 55.75583,
+            "lon": 37.61778
+        },
+        "l": "JavaScript",
+        "nwo": "Areso/1255-burgomaster",
+        "pr": 631,
+        "ma": "2021-12-22T19:47:26Z",
+        "oa": "2021-12-22T19:47:16Z"
+    },
+    {
+        "uml": "Utah",
+        "gm": {
+            "lat": 39.2548171647,
+            "lon": -111.602499934826
+        },
+        "uol": "Utah",
+        "gop": {
+            "lat": 39.2548171647,
+            "lon": -111.602499934826
+        },
+        "l": "Rust",
+        "nwo": "CleanCut/rusty_engine",
+        "pr": 19,
+        "ma": "2021-12-22T19:57:58Z",
+        "oa": "2021-12-22T19:47:47Z"
+    },
+    {
+        "uml": "Romania",
+        "gm": {
+            "lat": 45.8436147575587,
+            "lon": 24.9692584752492
+        },
+        "uol": "Romania",
+        "gop": {
+            "lat": 45.8436147575587,
+            "lon": 24.9692584752492
+        },
+        "l": "JavaScript",
+        "nwo": "plone/volto",
+        "pr": 2951,
+        "ma": "2021-12-22T19:55:53Z",
+        "oa": "2021-12-22T19:55:44Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "Python",
+        "nwo": "ihmeuw/covid-model-seiir-pipeline",
+        "pr": 301,
+        "ma": "2021-12-22T19:56:57Z",
+        "oa": "2021-12-22T19:56:48Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "Python",
+        "nwo": "ihmeuw/covid-model-seiir-pipeline",
+        "pr": 302,
+        "ma": "2021-12-22T19:59:34Z",
+        "oa": "2021-12-22T19:59:21Z"
+    },
+    {
+        "uml": "United States",
+        "gm": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "uol": "United States",
+        "gop": {
+            "lat": 39.3812661305678,
+            "lon": -97.9222112121185
+        },
+        "l": "Python",
+        "nwo": "ihmeuw/covid-model-seiir-pipeline",
+        "pr": 303,
+        "ma": "2021-12-22T20:00:12Z",
+        "oa": "2021-12-22T20:00:03Z"
+    },
+    {
+        "uml": "Graz",
+        "gm": {
+            "lat": 47.06667,
+            "lon": 15.43333
+        },
+        "uol": "Graz",
+        "gop": {
+            "lat": 47.06667,
+            "lon": 15.43333
+        },
+        "l": "Shell",
+        "nwo": "msys2/MSYS2-packages",
+        "pr": 2755,
+        "ma": "2021-12-22T20:07:32Z",
+        "oa": "2021-12-22T20:01:32Z"
+    },
+    {
+        "uml": "Coventry",
+        "gm": {
+            "lat": 52.408181199999994,
+            "lon": -1.510477
+        },
+        "uol": "Coventry",
+        "gop": {
+            "lat": 52.408181199999994,
+            "lon": -1.510477
+        },
+        "l": "Python",
+        "nwo": "TissueImageAnalytics/tiatoolbox",
+        "pr": 233,
+        "ma": "2021-12-22T20:19:31Z",
+        "oa": "2021-12-22T20:01:49Z"
+    },
+    {
+        "uml": "Berlin",
+        "gm": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "uol": "Berlin",
+        "gop": {
+            "lat": 52.51667,
+            "lon": 13.38333
+        },
+        "l": "Rust",
+        "nwo": "Smithay/smithay",
+        "pr": 441,
+        "ma": "2021-12-22T20:25:34Z",
+        "oa": "2021-12-22T20:04:03Z"
+    },
+    {
+        "uml": "Geneva",
+        "gm": {
+            "lat": 46.2,
+            "lon": 6.15
+        },
+        "uol": "Geneva",
+        "gop": {
+            "lat": 46.2,
+            "lon": 6.15
+        },
+        "l": "Python",
+        "nwo": "okorach/sonarqube-tools",
+        "pr": 277,
+        "ma": "2021-12-22T20:09:10Z",
+        "oa": "2021-12-22T20:06:59Z"
+    },
+    {
+        "uml": "Stockholm",
+        "gm": {
+            "lat": 59.32944,
+            "lon": 18.06861
+        },
+        "uol": "Stockholm",
+        "gop": {
+            "lat": 59.32944,
+            "lon": 18.06861
+        },
+        "l": "TypeScript",
+        "nwo": "xdy/twodsix-foundryvtt",
+        "pr": 741,
+        "ma": "2021-12-22T20:09:40Z",
+        "oa": "2021-12-22T20:07:29Z"
+    },
+    {
+        "uml": "Amsterdam",
+        "gm": {
+            "lat": 52.378,
+            "lon": 4.9
+        },
+        "uol": "Amsterdam",
+        "gop": {
+            "lat": 52.378,
+            "lon": 4.9
+        },
+        "l": "JavaScript",
+        "nwo": "brmodeloweb/brmodelo-app",
+        "pr": 309,
+        "ma": "2021-12-22T20:19:46Z",
+        "oa": "2021-12-22T20:11:08Z"
+    },
+    {
+        "uml": "Paris",
+        "gm": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "uol": "Paris",
+        "gop": {
+            "lat": 48.85658,
+            "lon": 2.35183
+        },
+        "l": "Java",
+        "nwo": "jzy3d/jzy3d-api",
+        "pr": 229,
+        "ma": "2021-12-22T20:21:03Z",
+        "oa": "2021-12-22T20:11:22Z"
+    },
+    {
+        "uml": "Chicago",
+        "gm": {
+            "lat": 41.8756,
+            "lon": -87.6244
+        },
+        "uol": "Chicago",
+        "gop": {
+            "lat": 41.8756,
+            "lon": -87.6244
+        },
+        "l": "C++",
+        "nwo": "sengelha/streaming-percentiles",
+        "pr": 54,
+        "ma": "2021-12-22T20:11:31Z",
+        "oa": "2021-12-22T20:11:26Z"
+    },
+    {
+        "uml": "Bangalore",
+        "gm": {
+            "lat": 12.96991,
+            "lon": 77.59796
+        },
+        "uol": "Bangalore",
+        "gop": {
+            "lat": 12.96991,
+            "lon": 77.59796
+        },
+        "l": "TypeScript",
+        "nwo": "excalidraw/excalidraw",
+        "pr": 4466,
+        "ma": "2021-12-22T20:17:15Z",
+        "oa": "2021-12-22T20:14:23Z"
+    },
+    {
+        "uml": "Maryland",
+        "gm": {
+            "lat": 39.4780636707,
+            "lon": -76.8536374638244
+        },
+        "uol": "Washington",
+        "gop": {
+            "lat": 38.895,
+            "lon": -77.0366
+        },
+        "l": "Scala",
+        "nwo": "cfpb/hmda-platform",
+        "pr": 4328,
+        "ma": "2021-12-22T20:17:28Z",
+        "oa": "2021-12-22T20:14:59Z"
+    },
+    {
+        "uml": "Geneva",
+        "gm": {
+            "lat": 46.2,
+            "lon": 6.15
+        },
+        "uol": "Geneva",
+        "gop": {
+            "lat": 46.2,
+            "lon": 6.15
+        },
+        "l": "Python",
+        "nwo": "okorach/sonarqube-tools",
+        "pr": 279,
+        "ma": "2021-12-22T20:23:39Z",
+        "oa": "2021-12-22T20:21:08Z"
+    },
+    {
+        "uml": "Seattle",
+        "gm": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "uol": "Seattle",
+        "gop": {
+            "lat": 47.6038,
+            "lon": -122.3301
+        },
+        "l": "HTML",
+        "nwo": "rust-lang/this-week-in-rust",
+        "pr": 2726,
+        "ma": "2021-12-22T20:25:47Z",
+        "oa": "2021-12-22T20:25:28Z"
+    },
+    {
+        "uml": "Algeria",
+        "gm": {
+            "lat": 37,
+            "lon": 2
+        },
+        "uol": "Tlemcen",
+        "gop": {
+            "lat": 37,
+            "lon": 2
+        },
+        "l": "NextJS",
+        "nwo": "js/strapi-with-next-js",
+        "pr": 13000,
+        "ma": "2022-01-03T20:25:47Z",
+        "oa": "2022-01-03T20:25:28Z"
+    },
+    {
+        "uml": "Algeria",
+        "gm": {
+            "lat": 37,
+            "lon": 7
+        },
+        "uol": "Annaba",
+        "gop": {
+            "lat": 37,
+            "lon": 2
+        },
+        "l": "ReactJS",
+        "nwo": "js/strapi-with-react-js",
+        "pr": 13005,
+        "ma": "2022-01-02T20:25:47Z",
+        "oa": "2022-01-02T20:25:28Z"
+    },
+    {
+        "uml": "Tlemcen",
+        "gm": {
+            "lat": 37,
+            "lon": 2
+        },
+        "uol": "Ouargla",
+        "gop": {
+            "lat": 32,
+            "lon": 4
+        },
+        "l": "NextJS",
+        "nwo": "js/strapi-with-react-js",
+        "pr": 13010,
+        "ma": "2022-01-01T20:25:47Z",
+        "oa": "2022-01-01T20:25:28Z"
+    }
+]
