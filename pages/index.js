@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Script from 'next/script'
-// import Header from '@components/Header'
+import Header from '@components/Header'
 // import Footer from '@components/Footer'
 
 export default function Home() {
@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main>
-        {/* <Header title="Welcome to my app!" /> */}
+        <Header title="Welcome to Afrah Rayan Shop d'Oran" />
         <div className="d-flex">
             <div className="home-hero-container flex-auto">
                 <div className="height-full js-webgl-globe globe"></div>

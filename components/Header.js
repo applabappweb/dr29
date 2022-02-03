@@ -1,3 +1,3 @@
 export default function Header({ title }) {
-  return <h1 className="title">{title}</h1>
+  return <div className="contitle"><h1 className="title">{title}</h1></div>
 }

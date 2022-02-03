@@ -4,6 +4,21 @@ html {
   -webkit-text-size-adjust: 100%
 }
 
+.contitle {
+  text-align: center;
+  display: table-column;
+  position: absolute;
+  background-color: transparent;
+  width: 300px;
+  height: 50px;
+  z-index: 2000;
+  top: 0;
+}
+
+.title {
+  color: #8d99c6;
+}
+
 .js-globe-popover-header, .js-globe-popover-body, .js-globe-popover-card {
   display: none !important;
 }
