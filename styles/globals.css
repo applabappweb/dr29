@@ -37,8 +37,6 @@ d-none {
   min-height: 750px;
   max-height: 926px;
   background-color: #040d21;
-  background-image: url(/data/images/hero-glow.svg);
-  background-size: 140%;
   background-repeat: no-repeat;
 }
 
