@@ -9,6 +9,8 @@ export default function Home() {
       <Script src="/assets/js/webgl-globe.js" />
       <Head>
         <title>Afrah Rayan Oran</title>
+        <meta name='description' content='Afrah Rayan 31 Oran' />
+        <meta property='og:title' content='Afrah Rayan Oran' />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
