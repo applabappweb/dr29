@@ -5400,7 +5400,7 @@
             "lon": 2
         },
         "l": "NextJS",
-        "nwo": "js/strapi-with-next-js",
+        "nwo": "dashboard",
         "pr": 13000,
         "ma": "2022-01-03T20:25:47Z",
         "oa": "2022-01-03T20:25:28Z"
@@ -5417,7 +5417,7 @@
             "lon": 2
         },
         "l": "ReactJS",
-        "nwo": "js/strapi-with-react-js",
+        "nwo": "dashboard",
         "pr": 13005,
         "ma": "2022-01-02T20:25:47Z",
         "oa": "2022-01-02T20:25:28Z"
@@ -5434,7 +5434,7 @@
             "lon": 4
         },
         "l": "NextJS",
-        "nwo": "js/strapi-with-react-js",
+        "nwo": "dashboard",
         "pr": 13010,
         "ma": "2022-01-01T20:25:47Z",
         "oa": "2022-01-01T20:25:28Z"
