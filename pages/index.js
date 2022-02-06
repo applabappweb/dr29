@@ -4,7 +4,7 @@ import Header from "@components/Header";
 export default function Home() {
     return (
       <Layout>
-          <Header title="AR13" />
+          {/* <Header title="AR13" /> */}
       </Layout>
   )
 }

@@ -15,7 +15,7 @@ export default function Layout({ title, keywords, description, children }) {
       </Head>
       {router.pathname === "/" && <Globe />}
       <div className={styles.container}>{children}</div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
