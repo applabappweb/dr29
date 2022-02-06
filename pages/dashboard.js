@@ -13,35 +13,35 @@ export default function Dashboard({ projects, articles }) {
     <>
       <Container enableTransition={true}>
         <Head>
-          <title>Abdul Rahman - Software Engineer</title>
-          <meta name="title" content="Abdul Rahman - Software Engineer" />
-          <meta name="keywords" content="abdulrcs, abdulrcs website" />
+          <title>Afrah Rayan 31 - Produits patisseries et emballage</title>
+          <meta name="title" content="Afrah Rayan 31 - Produits patisseries et emballage" />
+          <meta name="keywords" content="afrah, afrah rayan" />
           <meta
             name="description"
-            content="Software Engineer based in Indonesia, an undergraduate student at Universitas Negeri Surabaya."
+            content="Produits patisseries et emballage"
           />
 
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://abdulrahman.id" />
+          <meta property="og:url" content="https://afrahrayan31.netlify.app" />
           <meta
             property="og:title"
-            content="Abdul Rahman - Software Engineer"
+            content="Afrah Rayan 31 - Produits patisseries et emballage"
           />
           <meta
             property="og:description"
-            content="Software Engineer based in Indonesia, an undergraduate student at Universitas Negeri Surabaya."
+            content="Produits patisseries et emballage"
           />
           <meta property="og:image" content="https://i.imgur.com/AOMvmeJ.png" />
 
           <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:url" content="https://abdulrahman.id/" />
+          <meta property="twitter:url" content="https://afrahrayan31.netlify.app/" />
           <meta
             property="twitter:title"
-            content="Abdul Rahman - Software Engineer"
+            content="Afrah Rayan 31 - Produits patisseries et emballage"
           />
           <meta
             property="twitter:description"
-            content="Software Engineer based in Indonesia, an undergraduate student at Universitas Negeri Surabaya."
+            content="Afrah Rayan 31 - Produits patisseries et emballage"
           />
           <meta
             property="twitter:image"

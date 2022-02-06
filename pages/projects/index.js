@@ -18,18 +18,18 @@ export default function Projects({ projects }) {
     <>
       <Container>
         <Head>
-          <title>Abdul Rahman - Software Engineer</title>
-          <meta name="title" content="Abdul Rahman - Software Engineer" />
+          <title>Produits - Afrah Rayan 31</title>
+          <meta name="title" content="Produits - Afrah Rayan 31" />
           <meta
             name="description"
             content="Software Engineer based in Indonesia, an undergraduate student at Universitas Negeri Surabaya."
           />
 
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://abdulrahman.id/projects" />
+          <meta property="og:url" content="https://afrahrayan31.netlify.app/projects" />
           <meta
             property="og:title"
-            content="Abdul Rahman - Software Engineer"
+            content="Produits - Afrah Rayan 31"
           />
           <meta
             property="og:description"
@@ -40,11 +40,11 @@ export default function Projects({ projects }) {
           <meta property="twitter:card" content="summary_large_image" />
           <meta
             property="twitter:url"
-            content="https://abdulrahman.id/projects"
+            content="https://afrahrayan31.netlify.app/projects"
           />
           <meta
             property="twitter:title"
-            content="Abdul Rahman - Software Engineer"
+            content="Produits - Afrah Rayan 31"
           />
           <meta
             property="twitter:description"
