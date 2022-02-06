@@ -8,6 +8,7 @@ import { Input, InputGroup, InputRightElement } from '@chakra-ui/input'
 import useMediaQuery from '../../hook/useMediaQuery'
 import readingTime from 'reading-time'
 import dateFormat from 'dateformat'
+import ar31 from '../../data/data.json'
 
 export default function Index({ articles }) {
   const [query, setQuery] = useState('')
@@ -85,7 +86,7 @@ export default function Index({ articles }) {
                   color="textSecondary"
                   display={isLargerThan1024 ? 'block' : 'none'}
                 >
-                  {dateFormat(Date.parse(article.fields.date), 'mmm d yyyy')}
+                  {dateFormat(Date.parse(article.fields.date), 'dd/mm/yyyy')}
                   <br />{' '}
                   <Text fontSize="sm" textAlign="right">
                     {readingTime(article.fields.body).text}
@@ -131,21 +132,11 @@ export default function Index({ articles }) {
   )
 }
 
-let client = require('contentful').createClient({
-  space: process.env.CONTENTFUL_SPACE_ID,
-  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
-})
-
 export async function getStaticProps() {
-  let data = await client.getEntries({
-    content_type: 'blogPosts',
-    limit: 50,
-    order: 'sys.createdAt',
-  })
 
   return {
     props: {
-      articles: data.items.reverse(),
+      articles: ar31.articles,
     },
   }
 }

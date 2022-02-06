@@ -34,32 +34,19 @@
     "articles": [
         {
             "fields": {
-                "imageUrl": "/images/afrah-rayan-31.jpg",
                 "title": "title: shop",
-                "description": "description: shop",
-                "githubLink": "https://github.com/appwebapplab",
-                "deployLink": "#",
-                "tags": ["tag1", "tag2"]
+                "date": "02/02/1980",
+                "body": {"text": "body of article"},
+                "slug": "article1",
+                "summary": "summary of article1",
+                "imageUrl": "/images/afrah-rayan-31.jpg"
             }
-        },
+        }   
+    ],
+    "items": [
         {
             "fields": {
-                "imageUrl": "/images/afrah-rayan-31.jpg",
-                "title": "title: shop",
-                "description": "description: shop",
-                "githubLink": "https://github.com/appwebapplab",
-                "deployLink": "#",
-                "tags": ["tag1", "tag2"]
-            }
-        },
-        {
-            "fields": {
-                "imageUrl": "/images/afrah-rayan-31.jpg",
-                "title": "title: shop",
-                "description": "description: shop",
-                "githubLink": "https://github.com/appwebapplab",
-                "deployLink": "#",
-                "tags": ["tag1", "tag2"]
+                "slug": "blog1"
             }
         }   
     ]

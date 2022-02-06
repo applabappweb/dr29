@@ -6,6 +6,7 @@ import Container from '../../components/Container'
 import Head from 'next/head'
 import { Input, InputGroup, InputRightElement } from '@chakra-ui/input'
 import { FaSearch } from 'react-icons/fa'
+import ar31 from '../../data/data.json'
 
 export default function Projects({ projects }) {
   const [query, setQuery] = useState('')
@@ -103,19 +104,11 @@ export default function Projects({ projects }) {
   )
 }
 
-let client = require('contentful').createClient({
-  space: process.env.CONTENTFUL_SPACE_ID,
-  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
-})
-
 export async function getStaticProps() {
-  let data = await client.getEntries({
-    content_type: 'projects',
-    order: 'sys.updatedAt',
-  })
+
   return {
     props: {
-      projects: data.items.reverse(),
+      projects: ar31.projects,
     },
   }
 }
