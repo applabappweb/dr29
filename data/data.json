@@ -1,0 +1,67 @@
+{
+    "projects": [
+        {
+            "fields": {
+                "imageUrl": "/images/afrah-rayan-31.jpg",
+                "title": "title: shop1",
+                "description": "description: shop",
+                "githubLink": "https://github.com/appwebapplab",
+                "deployLink": "#",
+                "tags": ["tag1", "tag2"]
+            }
+        },
+        {
+            "fields": {
+                "imageUrl": "/images/afrah-rayan-31.jpg",
+                "title": "title: shop2",
+                "description": "description: shop",
+                "githubLink": "https://github.com/appwebapplab",
+                "deployLink": "#",
+                "tags": ["tag1", "tag2"]
+            }
+        },
+        {
+            "fields": {
+                "imageUrl": "/images/afrah-rayan-31.jpg",
+                "title": "title: shop3",
+                "description": "description: shop",
+                "githubLink": "https://github.com/appwebapplab",
+                "deployLink": "#",
+                "tags": ["tag1", "tag2"]
+            }
+        }   
+    ],
+    "articles": [
+        {
+            "fields": {
+                "imageUrl": "/images/afrah-rayan-31.jpg",
+                "title": "title: shop",
+                "description": "description: shop",
+                "githubLink": "https://github.com/appwebapplab",
+                "deployLink": "#",
+                "tags": ["tag1", "tag2"]
+            }
+        },
+        {
+            "fields": {
+                "imageUrl": "/images/afrah-rayan-31.jpg",
+                "title": "title: shop",
+                "description": "description: shop",
+                "githubLink": "https://github.com/appwebapplab",
+                "deployLink": "#",
+                "tags": ["tag1", "tag2"]
+            }
+        },
+        {
+            "fields": {
+                "imageUrl": "/images/afrah-rayan-31.jpg",
+                "title": "title: shop",
+                "description": "description: shop",
+                "githubLink": "https://github.com/appwebapplab",
+                "deployLink": "#",
+                "tags": ["tag1", "tag2"]
+            }
+        }   
+    ]
+}
+    
