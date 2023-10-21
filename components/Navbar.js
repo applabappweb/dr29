@@ -41,7 +41,7 @@ export default function Navbar({ enableTransition }) {
         <DrawerContent backgroundColor="white">
           <DrawerCloseButton  color="#040d21"/>
           <DrawerHeader borderBottomWidth="1px">
-            <Image src="/AR31.svg" width={150} height={50} />
+            <Image src="/images/dr-mohammed-kamel-gouizi.jpg" width={150} height={66} />
           </DrawerHeader>
 
           <DrawerBody>
@@ -95,12 +95,12 @@ export default function Navbar({ enableTransition }) {
               fontWeight="bold"
               fontSize="32px"
             >
-              <Image src="/AR31.svg" width={150} height={50} />
+              <Image src="/images/dr-mohammed-kamel-gouizi.jpg" width={150} height={66} />
             </Text>
           </NextLink>
           {isLargerThan768 ? (
             <Box color="textSecondary">
-              <NextLink href="/" passHref>
+              {/* <NextLink href="/" passHref>
                 <Button as="a" variant="ghost" p="4" ml="3vw" fontSize="16px" color="#040d21">
                   Accueil
                 </Button>
@@ -109,10 +109,11 @@ export default function Navbar({ enableTransition }) {
                 <Button as="a" variant="ghost" p="4" ml="3vw" fontSize="16px" color="#040d21">
                   Produits
                 </Button>
-              </NextLink>{' '}
+              </NextLink>{' '} */}
             </Box>
           ) : (
-            <Icon as={AiOutlineMenu} w={7} h={7} onClick={onOpen} color="#040d21" />
+              // <Icon as={AiOutlineMenu} w={7} h={7} onClick={onOpen} color="#040d21" />
+              <></>
           )}
         </Flex>
       </Slide>

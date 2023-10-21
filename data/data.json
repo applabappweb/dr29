@@ -2,7 +2,7 @@
     "projects": [
         {
             "fields": {
-                "imageUrl": "/images/afrah-rayan-31.jpg",
+                "imageUrl": "/images/dr-mohammed-kamel-gouizi.jpg",
                 "title": "title: shop1",
                 "description": "description: shop",
                 "githubLink": "https://github.com/appwebapplab",
@@ -12,7 +12,7 @@
         },
         {
             "fields": {
-                "imageUrl": "/images/afrah-rayan-31.jpg",
+                "imageUrl": "/images/dr-mohammed-kamel-gouizi.jpg",
                 "title": "title: shop2",
                 "description": "description: shop",
                 "githubLink": "https://github.com/appwebapplab",
@@ -22,7 +22,7 @@
         },
         {
             "fields": {
-                "imageUrl": "/images/afrah-rayan-31.jpg",
+                "imageUrl": "/images/dr-mohammed-kamel-gouizi.jpg",
                 "title": "title: shop3",
                 "description": "description: shop",
                 "githubLink": "https://github.com/appwebapplab",
@@ -39,7 +39,7 @@
                 "body": {"text": "body of article"},
                 "slug": "article1",
                 "summary": "summary of article1",
-                "imageUrl": "/images/afrah-rayan-31.jpg"
+                "imageUrl": "/images/dr-mohammed-kamel-gouizi.jpg"
             }
         }   
     ],

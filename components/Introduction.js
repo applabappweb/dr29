@@ -50,19 +50,19 @@ export default function Introduction() {
               position="relative"
               zIndex={1}
             >
-              Bienvenue!, dans la boutique de-
+              La vie est le cadeau le plus précieux.
             </Text>
           </Box>
           <Heading
-            color="textPrimary"
             lineHeight={'95%'}
             fontSize="display"
+            // color="textPrimary"
             color="displayColor"
             letterSpacing={{ sm: '-1.2px', md: '-1.8px' }}
             position="relative"
             zIndex={1}
           >
-            Afrah Rayan d'Oran.
+            Dr. Mohammed Kamel Gouizi
           </Heading>
         </SlideFade>
 
@@ -79,12 +79,9 @@ export default function Introduction() {
             letterSpacing="-1.6px"
           >
             <Box color="displayColor" as="span">
-              Produits Patisserie et Emballage.
+            La santé est notre trésor.
             </Box>{' '}
-            Cadeaux, Bombom, Jouets<br />et beaucoup d'autres gadgets.<br />
-            {isLargerThan800
-              ? "C'est avec une trés fort grand plaisir nous vous servons."
-              : "C'est avec\nune trés fort grand plaisir nous vous servons."}
+            Prendre soin de sa santé est essentiel et cela n’est possible qu’avec l’aide de médecins. De nombreux bons médecins dans le monde travaillent très dur pour le bien-être de la société et nous aident à mener une vie plus saine.<br />
           </Heading>
         </SlideFade>
 
@@ -94,7 +91,7 @@ export default function Introduction() {
           transition={{ enter: { duration: 0.4, delay: 0.9 } }}
         >
           <Text fontSize="display3" color="textSecondary">
-            Ce site web est pour présenter notre boutique et également nos produits et nos services.
+          Les médecins constituent la pierre angulaire du système de santé d’un pays. On dit que plus le système éducatif d’un pays est établi, plus il dispose de médecins compétents et qualifiés.
             <br />
             <Stack isInline spacing={1}>
               <Box>
@@ -109,7 +106,7 @@ export default function Introduction() {
           transition={{ enter: { duration: 0.4, delay: 1.0 } }}
         >
           <Stack isInline spacing={4}>
-            <Link href="https://www.facebook.com/Hadimmohamedrayan/" isExternal>
+            <Link href="https://www.facebook.com/profile.php?id=61552610873702" isExternal>
               <Button
                 leftIcon={<FaFacebook color="#1b74e4" />}
                 position="static"

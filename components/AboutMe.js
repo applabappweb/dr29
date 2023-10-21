@@ -63,7 +63,7 @@ export default function AboutMe() {
         <SlideUpWhenVisible>
           <Stack spacing={4}>
             <Heading fontFamily="Ubuntu" fontSize="2xl">
-              ⚡ Apropos notre boutique
+              ⚡ À propos de la moi
             </Heading>
             {/* <Text
               color="textSecondary"
@@ -132,20 +132,10 @@ export default function AboutMe() {
               maxH={{ base: '300px', lg: '350px' }}
             >
               <Image
-                src="https://svgsilh.com/svg/26432.svg"
-                filter="invert(0.1)"
-                zIndex={3}
-                position="absolute"
-                top={0}
-                right={0}
-                w={{ base: '100px', lg: '150px' }}
-                alt=""
-              />
-              <Image
-                src="/images/afrah-rayan-31.jpg"
+                src="/images/dr-mohammed-kamel-gouizi_pic.jpg"
                 w={{ base: '600px', lg: '700px' }}
                 h={{ base: 'auto', lg: 'auto' }}
-                alt="afrah-rayan-31"
+                alt="dr-mohammed-kamel-gouizi"
                 borderRadius={300}
               />
             </Box>
