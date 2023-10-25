@@ -63,7 +63,7 @@ export default function AboutMe() {
         <SlideUpWhenVisible>
           <Stack spacing={4}>
             <Heading fontFamily="Ubuntu" fontSize="2xl">
-              ⚡ À propos de moi
+              ⚡ À propos de moi:
             </Heading>
             <Text
               color="textSecondary"
