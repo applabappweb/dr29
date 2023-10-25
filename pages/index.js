@@ -7,7 +7,6 @@ import LatestArticle from '../components/LatestArticle'
 import AboutMe from '../components/AboutMe'
 import ContactMe from '../components/ContactMe'
 import ar31 from '../data/data.json'
-import GoogleMaps from '@components/GoogleMaps'
 
 export default function Dashboard({ projects, articles }) {
   return (
@@ -60,7 +59,6 @@ export default function Dashboard({ projects, articles }) {
         >
           <Introduction />
           <AboutMe />
-          {/* <GoogleMaps /> */}
           {/* <FeaturedProjects projects={projects} />
           <LatestArticle articles={articles} />
           <ContactMe /> */}
