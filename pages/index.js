@@ -31,7 +31,7 @@ export default function Dashboard({ projects, articles }) {
             property="og:description"
             content="Produits patisseries et emballage"
           />
-          <meta property="og:image" content="https://dr29.vercel.app/dr29.png" />
+          <meta property="og:image" content="https://dr29.vercel.app/dr29cover.png" />
 
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:url" content="https://drmohammedkamelgouizi.netlify.app/" />
@@ -45,7 +45,7 @@ export default function Dashboard({ projects, articles }) {
           />
           <meta
             property="twitter:image"
-            content="https://dr29.vercel.app/dr29.png"
+            content="https://dr29.vercel.app/dr29cover.png"
           />
         </Head>
 
