@@ -32,7 +32,7 @@ export default function Dashboard({ projects, articles }) {
             property="og:description"
             content="Produits patisseries et emballage"
           />
-          <meta property="og:image" content="https://i.imgur.com/AOMvmeJ.png" />
+          <meta property="og:image" content="/dr29.png" />
 
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:url" content="https://drmohammedkamelgouizi.netlify.app/" />
@@ -46,7 +46,7 @@ export default function Dashboard({ projects, articles }) {
           />
           <meta
             property="twitter:image"
-            content="https://i.imgur.com/AOMvmeJ.png"
+            content="/dr29.png"
           />
         </Head>
 
