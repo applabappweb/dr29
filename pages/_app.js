@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react'
 import { ChakraProvider } from '@chakra-ui/react'
 import customTheme from '../styles/theme'
 import { Global, css } from '@emotion/react'
@@ -47,6 +48,7 @@ function MyApp({ Component, pageProps }) {
     <ChakraProvider resetCSS theme={customTheme}>
       <GlobalStyle>
         <Component {...pageProps} />
+        <Analytics />
       </GlobalStyle>
     </ChakraProvider>
   )
